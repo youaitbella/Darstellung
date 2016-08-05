@@ -1,0 +1,21 @@
+﻿DRG;name;Relativgewicht;AnzahlBA;AntAnGesFallzahl
+P60C;Neugeborenes, verlegt < 5 Tage nach Aufnahme ohne signifikante OR-Prozedur, nicht zuverlegt, ohne Beatmung > 24 Stunden (Mindestverweildauer 24 Stunden für das Krankenhaus, in dem die Geburt stattfindet);0,119;1285;0,0021
+C64Z;Glaukom, Katarakt und Erkrankungen des Augenlides;0,202;1391;0,0023
+E63Z;Schlafapnoesyndrom oder kardiorespiratorische Polysomnographie bis 2 Belegungstage;0,212;2604;0,0043
+P67D;Neugeborener Einling, Aufnahmegewicht > 2499 g ohne OR-Prozedur, ohne Beatmung > 95 Stunden, ohne schweres Problem, ohne anderes Problem oder ein Belegungstag;0,222;42239;0,0695
+L64B;Harnsteine und Harnwegsobstruktion ohne äußerst schwere oder schwere CC;0,226;3264;0,0054
+D62Z;Blutung aus Nase und Rachen oder Otitis media oder Infektionen der oberen Atemwege, Alter > 2 Jahre;0,241;2562;0,0042
+E78Z;Kontrolle oder Optimierung einer bestehenden häuslichen Beatmung, bis 2 Belegungstage;0,247;77;0,0001
+O65C;Andere vorgeburtliche stationäre Aufnahme ohne äußerst schwere oder schwere CC, ohne komplexe Diagnose, ohne best. Placenta praevia oder ohne schwere CC, Schwangerschaftsdauer bis 25 oder mehr als 33 vollendete Wochen;0,254;9148;0,0151
+N62B;Menstruationsstörungen und andere Erkrankungen der weiblichen Geschlechtsorgane ohne komplexe Diagnose;0,274;347;0,0006
+B80Z;Andere Kopfverletzungen;0,287;722;0,0012
+C07B;Andere Eingriffe bei Glaukom ohne extrakapsuläre Extraktion der Linse (ECCE);0,291;1152;0,0019
+G72B;Andere leichte bis moderate Erkrankungen der Verdauungsorgane, Alter > 2 Jahre oder Abdominalschmerz oder mesenteriale Lymphadenitis, Alter > 2 Jahre und Alter < 56 Jahre oder ohne CC;0,294;2145;0,0035
+P66D;Neugeborenes, Aufnahmegewicht 2000 - 2499 g ohne signifikante OR-Prozedur, ohne Beatmung > 95 Stunden, ohne Problem oder neugeborener Mehrling, Aufnahmegewicht > 2499 g ohne OR-Prozedur, ohne Beatmung > 95 Stunden, ohne Problem oder ein Belegungstag;0,295;951;0,0016
+G67C;Ösophagitis, Gastroenteritis, gastrointestinale Blutung, Ulkuserkrankung und verschiedene Erkrankungen der Verdauungsorgane ohne komplexe Prozedur, ohne komplexe Diagnose, ohne äußerst schwere CC;0,299;4426;0,0073
+O63Z;Abort ohne Dilatation und Kürettage, Aspirationskürettage oder Hysterotomie;0,309;187;0,0003
+O65B;Andere vorgeburtliche stationäre Aufnahme mit äußerst schweren CC oder komplexer Diagnose oder best. Placenta praevia mit schweren CC, Schwangerschaftsdauer bis 19 oder mehr als 33 vollendete Wochen (SSW) oder mit schweren CC oder 26 bis 33 SSW;0,314;2430;0,004
+Z64D;Andere Faktoren, die den Gesundheitszustand beeinflussen und Nachbehandlung nach abgeschlossener Behandlung ohne Radiojoddiagnostik, ohne bestimmten Kontaktanlass;0,318;708;0,0012
+P67C;Neugeborenes, Aufnahmegewicht > 2499 g ohne signifikante OR-Prozedur, ohne Beatmung > 95 Stunden, mit anderem Problem, mehr als ein Belegungstag oder mit nicht signifikanter OR-Prozedur, ohne komplizierende Diagnose;0,319;1643;0,0027
+X64Z;Andere Krankheit verursacht durch Verletzung, Vergiftung oder toxische Wirkung;0,323;147;0,0002
+D64Z;Laryngotracheitis, Laryngospasmus und Epiglottitis;0,329;146;0,0002

@@ -1,0 +1,28 @@
+﻿mdc;Name;SummeHA;SummeHAw;SummeHAm;SummeHAu;Anteilw;Anteilm;Anteilu
+00;Prä-MDC;144253;54821;89425;7;0,38;0,6199;0,00
+01;MDC 01 Krankheiten und Störungen des Nervensystems;1567856;796774;771040;42;0,5082;0,4918;0,00
+02;MDC 02 Krankheiten und Störungen des Auges;334916;176874;158034;8;0,5281;0,4719;0,00
+03;MDC 03 Krankheiten und Störungen des Ohres, der Nase, des Mundes und des Halses;703843;324377;379455;11;0,4609;0,5391;0,00
+04;MDC 04 Krankheiten und Störungen der Atmungsorgane;1339966;567031;772912;23;0,4232;0,5768;0,00
+05;MDC 05 Krankheiten und Störungen des Kreislaufsystems;2857533;1324692;1532812;29;0,4636;0,5364;0,00
+06;MDC 06 Krankheiten und Störungen der Verdauungsorgane;2142201;1061847;1080314;40;0,4957;0,5043;0,00
+07;MDC 07 Krankheiten und Störungen an hepatobiliärem System und Pankreas;567401;289773;277619;9;0,5107;0,4893;0,00
+08;MDC 08 Krankheiten und Störungen an Muskel-Skelett-System und Bindegewebe;2668960;1513721;1155206;33;0,5672;0,4328;0,00
+09;MDC 09 Krankheiten und Störungen an Haut, Unterhaut und Mamma;822921;483988;338916;17;0,5881;0,4118;0,00
+10;MDC 10 Endokrine, Ernährungs- und Stoffwechselkrankheiten;468634;283033;185596;5;0,604;0,396;0,00
+11;MDC 11 Krankheiten und Störungen der Harnorgane;824265;356813;467434;18;0,4329;0,5671;0,00
+12;MDC 12 Krankheiten und Störungen der männlichen Geschlechtsorgane;203168;8;203160;0;0,00;1,00;0,00
+13;MDC 13 Krankheiten und Störungen der weiblichen Geschlechtsorgane;376745;376726;19;0;0,9999;0,0001;0,00
+14;MDC 14 Schwangerschaft, Geburt und Wochenbett;810800;810800;0;0;1,00;0,00;0,00
+15;MDC 15 Neugeborene;659684;318672;341001;11;0,4831;0,5169;0,00
+16;MDC 16 Krankheiten des Blutes, der blutbildenden Organe und des Immunsystems;151189;84518;66670;1;0,559;0,441;0,00
+17;MDC 17 Hämatologische und solide Neubildungen;193138;86813;106317;8;0,4495;0,5505;0,00
+18A;MDC 18A HIV;4092;778;3314;0;0,1901;0,8099;0,00
+18B;MDC 18B Infektiöse und parasitäre Krankheiten;239702;111942;127754;6;0,467;0,533;0,00
+19;MDC 19 Psychische Krankheiten und Störungen;100228;62684;37542;2;0,6254;0,3746;0,00
+20;MDC 20 Alkohol- und Drogengebrauch und alkohol- und drogeninduzierte psychische Störungen;168984;49775;119207;2;0,2946;0,7054;0,00
+21A;MDC 21A Polytrauma;12569;4389;8180;0;0,3492;0,6508;0,00
+21B;MDC 21B Verletzungen, Vergiftungen und toxische Wirkungen von Drogen und Medikamenten;217727;103812;113913;2;0,4768;0,5232;0,00
+22;MDC 22 Verbrennungen;13957;5687;8270;0;0,4075;0,5925;0,00
+23;MDC 23 Faktoren, die den Gesundheitszustand beeinflussen, und andere Inanspruchnahme des Gesundheitswesens;102703;54872;47831;0;0,5343;0,4657;0,00
+FE;Fehler-DRGs und sonstige DRGs;46207;22081;24113;13;0,4779;0,5218;0,0003

@@ -1,0 +1,71 @@
+﻿gruppe;gruppename;Anzahl KH;AnzahlTS
+1-10 ... 1-10;Klinische Untersuchung;23;2214
+1-20 ... 1-33;Untersuchung einzelner Körpersysteme;216;36868
+1-40 ... 1-49;Biopsie ohne Inzision;209;12590
+1-50 ... 1-58;Biopsie durch Inzision;34;408
+1-61 ... 1-69;Diagnostische Endoskopie;237;13497
+1-70 ... 1-79;Funktionstests;192;44264
+1-84 ... 1-85;Explorative diagnostische Maßnahmen;75;846
+1-90 ... 1-99;Andere diagnostische Maßnahmen;101;11471
+3-03 ... 3-05;Ultraschalluntersuchungen;127;4823
+3-10 ... 3-13;Projektionsradiographie;110;2448
+3-20 ... 3-26;Computertomographie (CT);285;60344
+3-30 ... 3-30;Optische Verfahren;6;64
+3-60 ... 3-69;Darstellung des Gefäßsystems;69;709
+3-70 ... 3-76;Nuklearmedizinische diagnostische Verfahren;114;10453
+3-80 ... 3-84;Magnetresonanztomographie (MRT);211;33274
+3-90 ... 3-90;Andere bildgebende Verfahren;61;1664
+3-99 ... 3-99;Zusatzinformationen zu bildgebenden Verfahren;142;22836
+5-01 ... 5-05;Operationen am Nervensystem;9;656
+5-06 ... 5-07;Operationen an endokrinen Drüsen;2;2
+5-08 ... 5-16;Operationen an den Augen;23;15516
+5-18 ... 5-20;Operationen an den Ohren;30;1042
+5-21 ... 5-22;Operationen an Nase und Nasennebenhöhlen;29;624
+5-23 ... 5-28;Operationen an Mundhöhle und Gesicht;31;1294
+5-29 ... 5-31;Operationen an Pharynx, Larynx und Trachea;9;193
+5-32 ... 5-34;Operationen an Lunge und Bronchus;8;14
+5-35 ... 5-37;Operationen am Herzen;3;43
+5-38 ... 5-39;Operationen an den Blutgefäßen;66;691
+5-40 ... 5-41;Operationen am hämatopoetischen und Lymphgefäßsystem;19;118
+5-42 ... 5-54;Operationen am Verdauungstrakt;90;1018
+5-55 ... 5-59;Operationen an den Harnorganen;19;164
+5-60 ... 5-64;Operationen an den männlichen Geschlechtsorganen;21;139
+5-65 ... 5-71;Operationen an den weiblichen Geschlechtsorganen;16;291
+5-72 ... 5-75;Geburtshilfliche Operationen;2;6
+5-76 ... 5-77;Operationen an Kiefer- und Gesichtsschädelknochen;6;138
+5-78 ... 5-86;Operationen an den Bewegungsorganen;37;385
+5-87 ... 5-88;Operationen an der Mamma;5;84
+5-89 ... 5-92;Operationen an Haut und Unterhaut;74;16540
+5-93 ... 5-99;Zusatzinformationen zu Operationen;54;17577
+6-00 ... 6-00;Applikation von Medikamenten;137;29420
+8-01 ... 8-02;Applikation von Medikamenten und Nahrung und therapeutische Injektion;79;4480
+8-03 ... 8-03;Immuntherapie;23;323
+8-10 ... 8-11;Entfernung von Fremdmaterial und Konkrementen;37;443
+8-12 ... 8-13;Manipulationen an Verdauungstrakt und Harntrakt;88;2103
+8-14 ... 8-17;Therapeutische Katheterisierung, Aspiration, Punktion und Spülung;117;3229
+8-19 ... 8-19;Verbände;60;2997
+8-20 ... 8-22;Geschlossene Reposition und Korrektur von Deformitäten;6;16
+8-31 ... 8-39;Immobilisation und spezielle Lagerung;15;249
+8-40 ... 8-41;Knochenextension und andere Extensionsverfahren;4;34
+8-50 ... 8-51;Tamponade von Blutungen und Manipulation an Fetus oder Uterus;8;198
+8-52 ... 8-54;Strahlentherapie, nuklearmedizinische Therapie und Chemotherapie;143;120269
+8-55 ... 8-60;Frührehabilitative und physikalische Therapie;84;11869
+8-63 ... 8-66;Elektrostimulation, Elektrotherapie und Dauer der Behandlung durch fokussierten Ultraschall;43;1473
+8-70 ... 8-72;Maßnahmen für das Atmungssystem;49;15633
+8-77 ... 8-77;Maßnahmen im Rahmen der Reanimation;3;3
+8-80 ... 8-85;Maßnahmen für den Blutkreislauf;247;57985
+8-86 ... 8-86;Therapie mit besonderen Zellen und Blutbestandteilen;3;17
+8-90 ... 8-91;Anästhesie und Schmerztherapie;146;28595
+8-92 ... 8-93;Patientenmonitoring;73;5471
+8-97 ... 8-98;Komplexbehandlung;173;52810
+8-99 ... 8-99;Zusatzinformationen zu nichtoperativen therapeutischen Maßnahmen;0;0
+9-20 ... 9-20;Pflege und Versorgung von Patienten;0;0
+9-26 ... 9-28;Geburtsbegleitende Maßnahmen und Behandlung wegen Infertilität;2;2
+9-31 ... 9-32;Phoniatrische und pädaudiologische Therapie;46;5784
+9-40 ... 9-41;Psychosoziale, psychosomatische, neuropsychologische und psychotherapeutische Therapie;103;7302
+9-50 ... 9-51;Präventive und ergänzende kommunikative Maßnahmen;63;4424
+9-60 ... 9-64;Behandlung bei psychischen und psychosomatischen Störungen und Verhaltensstörungen bei Erwachsenen;6;28
+9-65 ... 9-69;Behandlung bei psychischen und psychosomatischen Störungen und Verhaltensstörungen bei Kindern und Jugendlichen;0;0
+9-70 ... 9-70;Andere Behandlung bei psychischen und psychosomatischen Störungen und Verhaltensstörungen bei Erwachsenen;0;0
+9-80 ... 9-80;Andere Behandlung bei psychischen und psychosomatischen Störungen und Verhaltensstörungen bei Kindern und Jugendlichen;-999;-999
+9-98 ... 9-99;Andere ergänzende Maßnahmen und Informationen;5;6

@@ -1,0 +1,810 @@
+﻿viersteller;vierstellername;AnzahlHA;Anzahl KH;mwNennungenKH;antKHTop10Prozent;antKHTop20Prozent;antKHTop30Prozent;antKHTop40Prozent;antKHTop50Prozent
+5-010;Schädeleröffnung über die Kalotte;69035;319;216,4107;0,4706;0,7038;0,8436;0,9339;0,976
+5-011;Zugang durch die Schädelbasis;4140;190;21,7895;0,5072;0,7029;0,8126;0,88;0,9256
+5-012;Inzision der Schädelknochen [Kraniotomie und Kraniektomie];7003;256;27,3555;0,3827;0,5872;0,7388;0,8468;0,9209
+5-013;Inzision von Gehirn und Hirnhäuten;20907;265;78,8943;0,3557;0,5646;0,7224;0,8365;0,9169
+5-014;Stereotaktische Operationen an Schädel, Gehirn und Hirnhäuten;1683;95;17,7158;0,6441;0,8152;0,9014;0,9388;0,9602
+5-015;Exzision und Destruktion von erkranktem intrakraniellem Gewebe;20838;209;99,7033;0,3917;0,6037;0,7417;0,8413;0,9116
+5-016;Exzision und Destruktion von erkranktem Gewebe der Schädelknochen;2505;225;11,1333;0,4778;0,6727;0,79;0,8655;0,9178
+5-017;Inzision, Resektion und Destruktion an intrakraniellen Anteilen von Hirnnerven und Ganglien;1577;131;12,0382;0,4978;0,6969;0,8098;0,8732;0,9195
+5-018;Mikrovaskuläre Dekompression von intrakraniellen Nerven;747;123;6,0732;0,411;0,5904;0,7041;0,7938;0,8635
+5-020;Kranioplastik;9417;239;39,4017;0,4702;0,6722;0,8023;0,8866;0,9387
+5-021;Rekonstruktion der Hirnhäute;31173;308;101,211;0,4799;0,7156;0,857;0,9385;0,9766
+5-022;Inzision am Liquorsystem;13886;265;52,40;0,4321;0,6399;0,7845;0,8756;0,9389
+5-023;Anlegen eines Liquorshuntes [Shunt-Implantation];6560;234;28,0342;0,389;0,5945;0,7358;0,8409;0,9096
+5-024;Revision und Entfernung von Liquorableitungen;9855;263;37,4715;0,5022;0,7011;0,8176;0,897;0,9462
+5-025;Inzision, Exzision, Destruktion und Verschluss von intrakraniellen Blutgefäßen;4300;173;24,8555;0,3495;0,5733;0,7156;0,8214;0,893
+5-026;Rekonstruktion von intrakraniellen Blutgefäßen;194;54;3,5926;0,3711;0,6031;0,6959;0,7887;0,8505
+5-027;Anlegen eines Bypasses und Transposition von intrakraniellen Blutgefäßen;152;29;5,2414;0,5987;0,7368;0,8224;0,8618;0,9013
+5-028;Funktionelle Eingriffe an Schädel, Gehirn und Hirnhäuten;2204;87;25,3333;0,49;0,7219;0,8439;0,9265;0,9696
+5-029;Andere Operationen an Schädel, Gehirn und Hirnhäuten;6577;211;31,1706;0,5074;0,7134;0,8334;0,9071;0,9495
+5-030;Zugang zum kraniozervikalen Übergang und zur Halswirbelsäule;43016;644;66,795;0,3833;0,5895;0,7268;0,8214;0,8889
+5-031;Zugang zur Brustwirbelsäule;25742;659;39,0622;0,4903;0,70;0,8235;0,8986;0,9452
+5-032;Zugang zur Lendenwirbelsäule, zum Os sacrum und zum Os coccygis;276065;888;310,884;0,4115;0,6218;0,758;0,8546;0,9198
+5-033;Inzision des Spinalkanals;31098;604;51,4868;0,5465;0,7432;0,8501;0,9131;0,9513
+5-034;Inzision von Rückenmark und Rückenmarkhäuten;1193;229;5,2096;0,5985;0,7192;0,7946;0,8508;0,8894
+5-035;Exzision und Destruktion von erkranktem Gewebe des Rückenmarkes und der Rückenmarkhäute;7111;412;17,2597;0,4487;0,659;0,7958;0,8779;0,93
+5-036;Plastische Operationen an Rückenmark und Rückenmarkhäuten;15431;593;26,0219;0,4226;0,6394;0,7783;0,8648;0,9206
+5-037;Operationen an intraspinalen Blutgefäßen;2381;138;17,2536;0,732;0,8921;0,9332;0,9542;0,966
+5-038;Operationen am spinalen Liquorsystem;11084;381;29,0919;0,5377;0,7394;0,8565;0,9215;0,958
+5-039;Andere Operationen an Rückenmark und Rückenmarkstrukturen;10915;427;25,5621;0,6679;0,8171;0,8863;0,9272;0,9536
+5-040;Inzision von Nerven;1755;312;5,625;0,6974;0,7972;0,8501;0,8855;0,9111
+5-041;Exzision und Destruktion von erkranktem Gewebe von Nerven;10781;831;12,9735;0,5428;0,7136;0,8127;0,8778;0,9214
+5-042;Exzision eines Nerven zur Transplantation;675;166;4,0663;0,5126;0,6444;0,7407;0,8104;0,8607
+5-043;Sympathektomie;1027;125;8,216;0,7215;0,813;0,8676;0,9056;0,9328
+5-044;Epineurale Naht eines Nerven und Nervenplexus, primär;5896;603;9,7778;0,5165;0,7061;0,8138;0,8762;0,9199
+5-045;Interfaszikuläre Naht eines Nerven und Nervenplexus, primär;1408;344;4,093;0,4226;0,6051;0,7195;0,8026;0,858
+5-046;Epineurale Naht eines Nerven und Nervenplexus, sekundär;517;228;2,2675;0,2959;0,4642;0,5919;0,6847;0,7737
+5-047;Interfaszikuläre Naht eines Nerven und Nervenplexus, sekundär;153;82;1,8659;0,3725;0,5229;0,6275;0,6797;0,732
+5-048;Epineurale Naht eines Nerven und Nervenplexus mit Transplantation;340;136;2,50;0,4529;0,5794;0,6706;0,7471;0,80
+5-049;Interfaszikuläre Naht eines Nerven und Nervenplexus mit Transplantation;271;88;3,0795;0,524;0,6494;0,7196;0,786;0,8376
+5-04a;Perkutane Sympathikolyse mit Steuerung durch bildgebende Verfahren;1717;214;8,0234;0,5719;0,7426;0,8241;0,8806;0,919
+5-050;Epineurale Naht eines Nerven und Nervenplexus mit Transposition, primär;235;100;2,35;0,4681;0,5872;0,6723;0,7447;0,7872
+5-051;Interfaszikuläre Naht eines Nerven und Nervenplexus mit Transposition, primär;57;38;1,50;0,2982;0,4561;0,5263;0,5965;0,6667
+5-052;Epineurale Naht eines Nerven und Nervenplexus mit Transposition, sekundär;40;34;1,1765;0,175;0,325;0,40;0,50;0,575
+5-053;Interfaszikuläre Naht eines Nerven und Nervenplexus mit Transposition, sekundär;69;29;2,3793;0,5942;0,6667;0,7101;0,7536;0,7971
+5-054;Epineurale Naht eines Nerven und Nervenplexus mit Transplantation und Transposition;124;81;1,5309;0,2823;0,4194;0,5403;0,6048;0,6774
+5-055;Interfaszikuläre Naht eines Nerven und Nervenplexus mit Transplantation und Transposition;98;48;2,0417;0,4694;0,5816;0,6531;0,7041;0,7551
+5-056;Neurolyse und Dekompression eines Nerven;54092;1121;48,2533;0,5029;0,6958;0,8025;0,8701;0,9179
+5-057;Neurolyse und Dekompression eines Nerven mit Transposition;4732;543;8,7145;0,6644;0,7857;0,8519;0,8956;0,9275
+5-058;Andere Rekonstruktion eines Nerven und Nervenplexus;367;125;2,936;0,4932;0,6213;0,7248;0,7902;0,8311
+5-059;Andere Operationen an Nerven und Ganglien;9624;485;19,8433;0,5404;0,7164;0,8207;0,8871;0,9326
+5-060;Inzision im Gebiet der Schilddrüse;1963;532;3,6898;0,4508;0,6083;0,7147;0,7916;0,8456
+5-061;Hemithyreoidektomie;23107;903;25,5891;0,5064;0,6712;0,7762;0,8474;0,9004
+5-062;Andere partielle Schilddrüsenresektion;13735;901;15,2442;0,4812;0,6486;0,7589;0,8355;0,8905
+5-063;Thyreoidektomie;38692;913;42,379;0,531;0,6945;0,7969;0,8668;0,917
+5-064;Operationen an der Schilddrüse durch Sternotomie;252;134;1,8806;0,3175;0,4722;0,5754;0,6825;0,7341
+5-065;Exzision des Ductus thyreoglossus;2047;285;7,1825;0,3864;0,5662;0,7044;0,8041;0,8784
+5-066;Partielle Nebenschilddrüsenresektion;2078;333;6,2402;0,6376;0,7632;0,8282;0,872;0,9047
+5-067;Parathyreoidektomie;4979;499;9,978;0,5963;0,7542;0,8427;0,8915;0,9259
+5-068;Operationen an der Nebenschilddrüse durch Sternotomie;39;30;1,30;0,2051;0,359;0,4615;0,5385;0,6154
+5-069;Andere Operationen an Schilddrüse und Nebenschilddrüsen;71201;913;77,9858;0,5164;0,6853;0,7879;0,8578;0,9091
+5-070;Exploration der (Umgebung der) Nebenniere;51;46;1,1087;0,1961;0,2745;0,3725;0,451;0,549
+5-071;Partielle Adrenalektomie;617;258;2,3915;0,3857;0,5462;0,6515;0,7358;0,7909
+5-072;Adrenalektomie;3274;486;6,7366;0,4432;0,6103;0,7312;0,8143;0,8751
+5-073;Andere Operationen an der Nebenniere;135;80;1,6875;0,3704;0,5185;0,5852;0,6444;0,7037
+5-074;Exzision und Resektion von erkranktem Gewebe des Corpus pineale;20;15;1,3333;0,30;0,40;0,50;0,55;0,65
+5-075;Exzision und Resektion von erkranktem Gewebe der Hypophyse;2754;135;20,40;0,4503;0,6198;0,7367;0,8166;0,8784
+5-076;Andere Operationen an der Hypophyse;32;23;1,3913;0,1875;0,375;0,50;0,5625;0,6563
+5-077;Exzision und Resektion des Thymus;1744;224;7,7857;0,6319;0,7603;0,8331;0,8825;0,9197
+5-078;Andere Operationen am Thymus;19;12;1,5833;0,4211;0,4737;0,5789;0,6316;0,6842
+5-079;Operationen an anderen endokrinen Drüsen;4;4;1,00;0,25;0,25;0,25;0,50;0,50
+5-080;Inzision der Tränendrüse;19;14;1,3571;0,2632;0,4211;0,4737;0,5789;0,6316
+5-081;Exzision von (erkranktem) Gewebe der Tränendrüse;88;46;1,913;0,2841;0,4318;0,5682;0,6591;0,7386
+5-082;Andere Operationen an der Tränendrüse;74;16;4,625;0,7297;0,7703;0,8378;0,8649;0,8919
+5-084;Inzision von Tränensack und sonstigen Tränenwegen;635;114;5,5702;0,3244;0,526;0,6504;0,7575;0,8299
+5-085;Exzision von erkranktem Gewebe an Tränensack und sonstigen Tränenwegen;260;77;3,3766;0,4385;0,5962;0,7115;0,7808;0,8423
+5-086;Rekonstruktion des Tränenkanals und Tränenpunktes;3104;129;24,062;0,6695;0,8086;0,8779;0,9178;0,9485
+5-087;Dakryozystorhinostomie;2472;155;15,9484;0,4005;0,587;0,7229;0,8196;0,8859
+5-088;Andere Rekonstruktion der Tränenwege;1590;94;16,9149;0,7553;0,8792;0,917;0,9465;0,9635
+5-089;Andere Operationen an den Tränenwegen;408;82;4,9756;0,6201;0,7108;0,7794;0,8309;0,8701
+5-090;Inzision des (erkrankten) Augenlides;660;141;4,6809;0,3742;0,5652;0,6864;0,7773;0,8515
+5-091;Exzision und Destruktion von (erkranktem) Gewebe des Augenlides;11701;313;37,3834;0,539;0,7639;0,8982;0,9595;0,9781
+5-092;Operationen an Kanthus und Epikanthus;3685;197;18,7056;0,5848;0,7634;0,8583;0,9151;0,9484
+5-093;Korrekturoperation bei Entropium und Ektropium;7549;181;41,7072;0,4979;0,6937;0,8205;0,8995;0,9495
+5-094;Korrekturoperation bei Blepharoptosis;3788;146;25,9452;0,4968;0,6803;0,8033;0,8807;0,9385
+5-095;Naht des Augenlides;3870;263;14,7148;0,4922;0,7186;0,8584;0,9253;0,9543
+5-096;Andere Rekonstruktion der Augenlider;11281;264;42,7311;0,6089;0,7924;0,8879;0,9484;0,9718
+5-097;Blepharoplastik;5446;253;21,5257;0,6583;0,8142;0,8849;0,9273;0,9543
+5-098;Vertikale Lidverlängerung;512;74;6,9189;0,5859;0,7383;0,8145;0,8789;0,9121
+5-099;Andere Operationen am Augenlid;725;125;5,80;0,4676;0,6193;0,7352;0,8055;0,8634
+5-10a;Verstärkende Eingriffe an einem geraden Augenmuskel;2198;80;27,475;0,4618;0,6624;0,8098;0,8999;0,9368
+5-10b;Schwächende Eingriffe an einem geraden Augenmuskel;2659;93;28,5914;0,4765;0,7115;0,8372;0,9037;0,9447
+5-10c;Chirurgie der Abrollstrecke (Faden-Operation, Myopexie);212;42;5,0476;0,3726;0,566;0,7358;0,8113;0,8679
+5-10d;Transposition eines geraden Augenmuskels;145;31;4,6774;0,4276;0,6345;0,7379;0,8138;0,8759
+5-10e;Andere Operationen an den geraden Augenmuskeln;1529;96;15,9271;0,6069;0,7691;0,8685;0,9163;0,9444
+5-10f;Verstärkende Eingriffe an einem schrägen Augenmuskel;203;49;4,1429;0,4187;0,6108;0,7241;0,803;0,8571
+5-10g;Schwächende Eingriffe an einem schrägen Augenmuskel;954;67;14,2388;0,5189;0,695;0,805;0,8795;0,9256
+5-10h;Transposition eines schrägen Augenmuskels;55;15;3,6667;0,5091;0,60;0,7455;0,80;0,8727
+5-10j;Andere Operationen an den schrägen Augenmuskeln;561;39;14,3846;0,8111;0,8877;0,918;0,9376;0,9519
+5-10k;Kombinierte Operationen an den Augenmuskeln;6638;94;70,617;0,4863;0,6773;0,7864;0,8682;0,9235
+5-10m;Andere Operationen an den Augenmuskeln;31;27;1,1481;0,1935;0,2903;0,3871;0,4839;0,5806
+5-110;Operative Entfernung eines Fremdkörpers aus der Konjunktiva;193;67;2,8806;0,4093;0,5389;0,6477;0,7358;0,8083
+5-112;Exzision und Destruktion von (erkranktem) Gewebe der Konjunktiva;2126;121;17,5702;0,4262;0,6129;0,7333;0,826;0,8942
+5-113;Konjunktivaplastik;1072;100;10,72;0,4095;0,5979;0,7229;0,8144;0,8825
+5-114;Lösung von Adhäsionen zwischen Konjunktiva und Augenlid;280;75;3,7333;0,4893;0,6286;0,7286;0,80;0,8571
+5-115;Naht der Konjunktiva;4227;117;36,1282;0,6011;0,7218;0,8131;0,8763;0,9196
+5-119;Andere Operationen an der Konjunktiva;346;81;4,2716;0,3844;0,5723;0,6879;0,7717;0,8468
+5-120;Operative Entfernung eines Fremdkörpers aus der Kornea;453;84;5,3929;0,362;0,5453;0,6689;0,7682;0,8389
+5-121;Inzision der Kornea;173;44;3,9318;0,6301;0,7399;0,7977;0,8497;0,8728
+5-122;Operationen bei Pterygium;2304;102;22,5882;0,293;0,4679;0,6124;0,7153;0,8051
+5-123;Exzision und Destruktion von (erkranktem) Gewebe der Kornea;4341;112;38,7589;0,4448;0,6475;0,7844;0,8611;0,9136
+5-124;Naht der Kornea;3653;117;31,2222;0,3884;0,5527;0,6879;0,7933;0,8713
+5-125;Hornhauttransplantation und Keratoprothetik;6177;93;66,4194;0,4714;0,6817;0,8038;0,8731;0,9194
+5-126;Refraktive Keratoplastik und andere Rekonstruktion der Kornea;288;49;5,8776;0,5208;0,6875;0,7917;0,8542;0,8889
+5-129;Andere Operationen an der Kornea;5748;119;48,3025;0,353;0,5778;0,7291;0,8253;0,8942
+5-130;Operative Entfernung eines Fremdkörpers aus der vorderen Augenkammer;102;60;1,70;0,2255;0,402;0,5294;0,6471;0,7059
+5-131;Senkung des Augeninnendruckes durch filtrierende Operationen;14760;115;128,3478;0,4244;0,6175;0,7557;0,8454;0,9039
+5-132;Senkung des Augeninnendruckes durch Operationen am Corpus ciliare;10630;126;84,3651;0,3007;0,4865;0,6482;0,7642;0,8501
+5-133;Senkung des Augeninnendruckes durch Verbesserung der Kammerwasserzirkulation;9223;128;72,0547;0,3921;0,5985;0,721;0,8111;0,877
+5-134;Senkung des Augeninnendruckes durch nicht filtrierende Operationen;2589;69;37,5217;0,5411;0,7215;0,8204;0,8953;0,9428
+5-135;Exzision und Destruktion von erkranktem Gewebe an Iris, Corpus ciliare und Sklera;343;78;4,3974;0,5219;0,6501;0,7201;0,7901;0,8455
+5-136;Andere Iridektomie und Iridotomie;2305;111;20,7658;0,5102;0,6451;0,7536;0,8325;0,8946
+5-137;Andere Operationen an der Iris;10267;124;82,7984;0,3054;0,5037;0,6423;0,7579;0,8426
+5-138;Operationen an der Sklera;2556;112;22,8214;0,5513;0,6819;0,7719;0,8333;0,8842
+5-139;Andere Operationen an Sklera, vorderer Augenkammer, Iris und Corpus ciliare;30080;123;244,5528;0,4134;0,6217;0,7442;0,8363;0,9063
+5-140;Entfernung eines Fremdkörpers aus der Augenlinse;20;17;1,1765;0,20;0,30;0,40;0,50;0,60
+5-142;Kapsulotomie der Linse;5850;132;44,3182;0,4014;0,6007;0,74;0,8275;0,8932
+5-143;Intrakapsuläre Extraktion der Linse;589;96;6,1354;0,4754;0,6078;0,7131;0,7861;0,854
+5-144;Extrakapsuläre Extraktion der Linse [ECCE];96493;159;606,8742;0,313;0,4945;0,6435;0,7631;0,8617
+5-145;Andere Linsenextraktionen;2010;113;17,7876;0,298;0,5139;0,6612;0,7627;0,8418
+5-146;(Sekundäre) Einführung und Wechsel einer alloplastischen Linse;3471;118;29,4153;0,2679;0,4572;0,5872;0,6995;0,794
+5-147;Revision und Entfernung einer alloplastischen Linse;2081;118;17,6356;0,3032;0,4882;0,6156;0,7184;0,8006
+5-149;Andere Operationen an der Linse;7198;111;64,8468;0,7604;0,8568;0,9047;0,9394;0,9604
+5-150;Entfernung eines Fremdkörpers aus dem hinteren Augenabschnitt;149;70;2,1286;0,2282;0,4027;0,5436;0,6376;0,7315
+5-152;Fixation der Netzhaut durch eindellende Operationen;6437;113;56,9646;0,4379;0,668;0,8001;0,8777;0,9264
+5-153;Revision, Wechsel und Entfernung einer Cerclage oder Plombe, die zur Fixation der Netzhaut angelegt wurde;576;94;6,1277;0,3212;0,5417;0,6858;0,7847;0,849
+5-154;Andere Operationen zur Fixation der Netzhaut;48607;139;349,6906;0,3356;0,5392;0,6933;0,8077;0,893
+5-155;Destruktion von erkranktem Gewebe an Retina und Choroidea;16111;149;108,1275;0,3787;0,5825;0,7361;0,8432;0,9137
+5-156;Andere Operationen an der Retina;35200;141;249,6454;0,461;0,6266;0,7516;0,8418;0,9143
+5-157;Andere Operationen an der Choroidea;1503;82;18,3293;0,644;0,7937;0,8703;0,9135;0,9441
+5-158;Pars-plana-Vitrektomie;59831;132;453,2652;0,267;0,4561;0,619;0,7331;0,8241
+5-159;Vitrektomie über anderen Zugang und andere Operationen am Corpus vitreum;27976;119;235,0924;0,3962;0,614;0,7569;0,8512;0,9129
+5-160;Orbitotomie;4176;170;24,5647;0,5338;0,7308;0,8427;0,9076;0,9464
+5-161;Entfernung eines Fremdkörpers aus Orbita und Augapfel, n.n.bez.;219;89;2,4607;0,3699;0,5251;0,6301;0,7123;0,7945
+5-162;Entfernung des Augeninhaltes [Eviszeration];209;48;4,3542;0,3254;0,5072;0,6364;0,7608;0,8421
+5-163;Entfernung des Augapfels [Enukleation];1100;114;9,6491;0,4482;0,63;0,7373;0,83;0,89
+5-164;Andere Exzision, Destruktion und Exenteration der Orbita und Orbitainnenhaut;1011;129;7,8372;0,4174;0,6113;0,7379;0,8239;0,8833
+5-165;Sekundäre Einführung, Revision und Entfernung eines Orbitaimplantates;297;71;4,1831;0,4646;0,633;0,7407;0,8249;0,8788
+5-166;Revision und Rekonstruktion von Orbita und Augapfel;1636;145;11,2828;0,5385;0,7029;0,8289;0,8949;0,9383
+5-167;Rekonstruktion der Orbitawand;1135;142;7,993;0,4828;0,6678;0,7921;0,867;0,9119
+5-168;Operationen am N. opticus;281;78;3,6026;0,3274;0,516;0,6512;0,7509;0,8292
+5-169;Andere Operationen an Orbita, Auge und Augapfel;2548;165;15,4424;0,6633;0,7979;0,8768;0,9231;0,9541
+5-180;Inzision am äußeren Ohr;2065;213;9,6948;0,7985;0,86;0,9002;0,9274;0,9487
+5-181;Exzision und Destruktion von erkranktem Gewebe des äußeren Ohres;11338;443;25,5937;0,5607;0,7697;0,8829;0,9439;0,969
+5-182;Resektion der Ohrmuschel;2402;299;8,0334;0,4163;0,6307;0,7565;0,8405;0,8963
+5-183;Wundversorgung am äußeren Ohr;1487;411;3,618;0,388;0,5709;0,69;0,7727;0,8305
+5-184;Plastische Korrektur abstehender Ohren;1781;272;6,5478;0,4217;0,6053;0,7243;0,8057;0,8664
+5-185;Konstruktion und Rekonstruktion des äußeren Gehörganges;8753;199;43,9849;0,4718;0,6412;0,76;0,8458;0,9056
+5-186;Plastische Rekonstruktion von Teilen der Ohrmuschel;2084;264;7,8939;0,4789;0,6737;0,7855;0,8565;0,9021
+5-187;Plastische Rekonstruktion der gesamten Ohrmuschel;417;89;4,6854;0,6643;0,7554;0,8082;0,8513;0,8945
+5-188;Andere Rekonstruktion des äußeren Ohres;672;199;3,3769;0,4226;0,5908;0,6994;0,7768;0,8363
+5-189;Andere Operationen am äußeren Ohr;10100;234;43,1624;0,454;0,7004;0,8378;0,9243;0,9672
+5-192;Revision einer Stapedektomie;362;93;3,8925;0,3287;0,5359;0,6713;0,7597;0,8315
+5-193;Andere Operationen an den Gehörknöchelchen;383;63;6,0794;0,6345;0,7676;0,8355;0,8721;0,9086
+5-194;Myringoplastik [Tympanoplastik Typ I];7347;189;38,873;0,3523;0,5443;0,6788;0,7826;0,8623
+5-195;Tympanoplastik (Verschluss einer Trommelfellperforation und Rekonstruktion der Gehörknöchelchen);17173;198;86,7323;0,3227;0,5124;0,646;0,7554;0,8377
+5-197;Stapesplastik;2969;164;18,1037;0,3439;0,5382;0,6585;0,7572;0,835
+5-198;Fensterungsoperation des Promotoriums;13;4;3,25;0,6923;0,6923;0,6923;0,8462;0,8462
+5-199;Andere mikrochirurgische Operationen am Mittelohr;596;100;5,96;0,6158;0,7517;0,8255;0,8758;0,9094
+5-200;Parazentese [Myringotomie];35659;390;91,4333;0,399;0,643;0,8199;0,9314;0,981
+5-201;Entfernung einer Paukendrainage;1313;187;7,0214;0,3252;0,505;0,6466;0,7563;0,8385
+5-202;Inzision an Warzenfortsatz und Mittelohr;4811;182;26,4341;0,3958;0,5789;0,7063;0,7948;0,8612
+5-203;Mastoidektomie;5322;204;26,0882;0,4154;0,6276;0,7559;0,8465;0,9081
+5-204;Rekonstruktion des Mittelohres;5025;173;29,0462;0,4344;0,6289;0,7467;0,8312;0,8969
+5-205;Andere Exzisionen an Mittel- und Innenohr;5224;176;29,6818;0,5301;0,7309;0,844;0,8991;0,9376
+5-208;Inzision [Eröffnung] und Destruktion [Ausschaltung] des Innenohres;355;66;5,3788;0,5127;0,6676;0,769;0,8282;0,8817
+5-209;Andere Operationen am Mittel- und Innenohr;9922;186;53,3441;0,4509;0,6605;0,7914;0,8706;0,9267
+5-210;Operative Behandlung einer Nasenblutung;11837;740;15,9959;0,5761;0,7801;0,872;0,9197;0,9481
+5-211;Inzision der Nase;2715;228;11,9079;0,3683;0,5495;0,684;0,7926;0,8726
+5-212;Exzision und Destruktion von erkranktem Gewebe der Nase;14803;445;33,2652;0,6495;0,8274;0,9091;0,9551;0,976
+5-213;Resektion der Nase;1278;188;6,7979;0,4977;0,6643;0,7598;0,8286;0,8803
+5-214;Submuköse Resektion und plastische Rekonstruktion des Nasenseptums;56232;311;180,8103;0,3523;0,5663;0,7212;0,836;0,9248
+5-215;Operationen an der unteren Nasenmuschel [Concha nasalis];94140;303;310,6931;0,4142;0,6233;0,7726;0,8696;0,9427
+5-216;Reposition einer Nasenfraktur;7594;421;18,038;0,5037;0,7247;0,8418;0,9123;0,9502
+5-217;Plastische Rekonstruktion der äußeren Nase;7719;342;22,5702;0,562;0,7488;0,8523;0,9094;0,9465
+5-218;Plastische Rekonstruktion der inneren und äußeren Nase [Septorhinoplastik];11716;279;41,9928;0,4299;0,6267;0,7708;0,8636;0,926
+5-219;Andere Operationen an der Nase;782;220;3,5545;0,3478;0,5473;0,6841;0,7775;0,835
+5-220;Nasennebenhöhlenpunktion;878;147;5,9728;0,6071;0,7164;0,7984;0,8565;0,8998
+5-221;Operationen an der Kieferhöhle;23823;274;86,9453;0,3972;0,5932;0,7395;0,8463;0,916
+5-222;Operation am Siebbein und an der Keilbeinhöhle;25726;233;110,412;0,3741;0,5669;0,7089;0,8124;0,8945
+5-223;Operationen an der Stirnhöhle;6630;193;34,3523;0,5008;0,6863;0,7953;0,867;0,9176
+5-224;Operationen an mehreren Nasennebenhöhlen;25533;250;102,132;0,333;0,5413;0,6856;0,7988;0,8861
+5-225;Plastische Rekonstruktion der Nasennebenhöhlen;4123;179;23,0335;0,4298;0,6777;0,8394;0,9221;0,9595
+5-229;Andere Operationen an den Nasennebenhöhlen;1483;155;9,5677;0,4154;0,6143;0,7539;0,8449;0,9103
+5-230;Zahnextraktion;23904;598;39,9732;0,8282;0,9407;0,9644;0,976;0,9836
+5-231;Operative Zahnentfernung (durch Osteotomie);22994;331;69,4683;0,6135;0,8843;0,9664;0,9831;0,9903
+5-232;Zahnsanierung durch Füllung;1640;168;9,7619;0,489;0,7128;0,8299;0,8915;0,928
+5-233;Prothetischer Zahnersatz;232;86;2,6977;0,4698;0,6034;0,7026;0,7716;0,8147
+5-235;Replantation, Transplantation, Implantation und Stabilisierung eines Zahnes;1257;140;8,9786;0,35;0,5919;0,7462;0,8544;0,9149
+5-236;Entfernung eines transplantierten Zahnes;10;9;1,1111;0,20;0,30;0,40;0,50;0,60
+5-237;Wurzelspitzenresektion und Wurzelkanalbehandlung;1641;174;9,431;0,4254;0,6319;0,7666;0,8672;0,9214
+5-240;Inzision des Zahnfleisches und Osteotomie des Alveolarkammes;2761;188;14,6862;0,6704;0,845;0,9102;0,9439;0,9616
+5-241;Gingivaplastik;13802;146;94,5342;0,5668;0,785;0,9136;0,9717;0,9903
+5-242;Andere Operationen am Zahnfleisch;7667;256;29,9492;0,6884;0,8637;0,9392;0,969;0,9811
+5-243;Exzision einer odontogenen pathologischen Veränderung des Kiefers;4924;177;27,8192;0,4007;0,6326;0,7998;0,9033;0,9606
+5-244;Alveolarkammplastik und Vestibulumplastik;4372;141;31,0071;0,699;0,8047;0,8765;0,9252;0,9579
+5-245;Zahnfreilegung;224;77;2,9091;0,2946;0,4777;0,6161;0,7188;0,7902
+5-249;Andere Operationen und Maßnahmen an Gebiss, Zahnfleisch und Alveolen;7577;240;31,5708;0,5864;0,8206;0,9293;0,9685;0,9801
+5-250;Inzision, Exzision und Destruktion von erkranktem Gewebe der Zunge;4601;234;19,6624;0,3423;0,5479;0,6907;0,8018;0,8776
+5-251;Partielle Glossektomie;2117;178;11,8933;0,3179;0,5139;0,6523;0,7633;0,8455
+5-252;Glossektomie;232;84;2,7619;0,2586;0,4569;0,5647;0,681;0,7629
+5-253;Rekonstruktion der Zunge;1080;272;3,9706;0,35;0,5519;0,6935;0,787;0,8509
+5-259;Andere Operationen an der Zunge;2579;311;8,2926;0,5173;0,677;0,779;0,8507;0,9015
+5-260;Inzision und Schlitzung einer Speicheldrüse und eines Speicheldrüsenausführungsganges;1390;205;6,7805;0,3676;0,5511;0,6892;0,782;0,854
+5-261;Exzision von erkranktem Gewebe einer Speicheldrüse und eines Speicheldrüsenausführungsganges;2235;234;9,5513;0,3391;0,5423;0,6926;0,8027;0,8738
+5-262;Resektion einer Speicheldrüse;14378;258;55,7287;0,3217;0,5316;0,687;0,8064;0,899
+5-263;Rekonstruktion einer Speicheldrüse und eines Speicheldrüsenausführungsganges;301;101;2,9802;0,4186;0,5681;0,6678;0,7442;0,8173
+5-269;Andere Operationen an Speicheldrüse und Speicheldrüsenausführungsgang;1866;127;14,6929;0,6115;0,7653;0,8708;0,926;0,9523
+5-270;Äußere Inzision und Drainage im Mund-, Kiefer- und Gesichtsbereich;7971;418;19,0694;0,6253;0,8572;0,9207;0,9499;0,9668
+5-271;Inzision des harten und weichen Gaumens;289;125;2,312;0,2595;0,4221;0,5571;0,6574;0,7474
+5-272;Exzision und Destruktion des (erkrankten) harten und weichen Gaumens;3164;217;14,5806;0,3059;0,4937;0,6387;0,7532;0,8398
+5-273;Inzision, Exzision und Destruktion in der Mundhöhle;11905;373;31,9169;0,5697;0,836;0,9187;0,9569;0,9751
+5-274;Mundbodenplastik;576;129;4,4651;0,3785;0,5712;0,691;0,7865;0,8542
+5-275;Palatoplastik;3440;221;15,5656;0,5314;0,714;0,8169;0,8811;0,9244
+5-276;Plastische Rekonstruktion einer (angeborenen) Lippenspalte und Lippen-Kieferspalte;1915;113;16,9469;0,4512;0,6303;0,7488;0,8397;0,9044
+5-277;Resektion des Mundbodens mit plastischer Rekonstruktion;2018;145;13,9172;0,332;0,5372;0,7066;0,8226;0,8989
+5-278;Resektion der Wange mit plastischer Rekonstruktion;855;125;6,84;0,3345;0,538;0,6947;0,8012;0,8819
+5-279;Andere Operationen am Mund;4104;281;14,605;0,4793;0,7154;0,8416;0,9074;0,9447
+5-280;Transorale Inzision und Drainage eines pharyngealen oder parapharyngealen Abszesses;5083;212;23,9764;0,383;0,6044;0,7476;0,8314;0,8965
+5-281;Tonsillektomie (ohne Adenotomie);61801;277;223,1083;0,2845;0,4756;0,635;0,7641;0,8682
+5-282;Tonsillektomie mit Adenotomie;8556;257;33,2918;0,3284;0,5078;0,6536;0,768;0,8551
+5-284;Exzision und Destruktion einer Zungengrundtonsille;1046;146;7,1644;0,414;0,5851;0,7141;0,7925;0,8576
+5-285;Adenotomie (ohne Tonsillektomie);29084;293;99,2628;0,3354;0,5536;0,7122;0,8372;0,9232
+5-289;Andere Operationen an Gaumen- und Rachenmandeln;8102;265;30,5736;0,3811;0,5642;0,7075;0,8139;0,8956
+5-290;Pharyngotomie;272;103;2,6408;0,3235;0,489;0,5993;0,7096;0,7904
+5-291;Operationen an Kiemengangsresten;1806;279;6,4731;0,3134;0,5199;0,6794;0,7924;0,871
+5-292;Exzision und Destruktion von erkranktem Gewebe des Pharynx;5651;200;28,255;0,5337;0,6942;0,794;0,8659;0,9184
+5-293;Pharyngoplastik;465;110;4,2273;0,3742;0,5505;0,671;0,757;0,828
+5-294;Andere Rekonstruktionen des Pharynx;2338;203;11,5172;0,3794;0,571;0,6959;0,7887;0,8614
+5-295;Partielle Resektion des Pharynx [Pharynxteilresektion];1927;170;11,3353;0,3467;0,5454;0,684;0,782;0,8568
+5-296;Radikale Resektion des Pharynx [Pharyngektomie];427;102;4,1863;0,4075;0,5925;0,7143;0,7916;0,8478
+5-299;Andere Operationen am Pharynx;1556;271;5,7417;0,3747;0,5694;0,6967;0,7898;0,8599
+5-300;Exzision und Destruktion von erkranktem Gewebe des Larynx;19748;272;72,6029;0,3496;0,5684;0,7352;0,8511;0,9318
+5-301;Hemilaryngektomie;203;77;2,6364;0,3399;0,4926;0,6256;0,7192;0,798
+5-302;Andere partielle Laryngektomie;3697;175;21,1257;0,3232;0,4974;0,6329;0,7411;0,8339
+5-303;Laryngektomie;1335;151;8,8411;0,2682;0,4532;0,5918;0,7064;0,7978
+5-310;Larynxverengende Eingriffe;766;94;8,1489;0,4517;0,6423;0,7493;0,8433;0,8995
+5-311;Temporäre Tracheostomie;37225;1055;35,2844;0,4958;0,6634;0,7701;0,8446;0,8978
+5-312;Permanente Tracheostomie;15846;840;18,8643;0,6483;0,8141;0,8836;0,9218;0,9475
+5-313;Inzision des Larynx und andere Inzisionen der Trachea;1188;190;6,2526;0,4832;0,6566;0,7652;0,8434;0,8948
+5-314;Exzision, Resektion und Destruktion (von erkranktem Gewebe) der Trachea;2030;315;6,4444;0,4833;0,6576;0,7695;0,8443;0,8975
+5-315;Rekonstruktion des Larynx;1067;146;7,3082;0,5586;0,6926;0,7901;0,8491;0,8941
+5-316;Rekonstruktion der Trachea;7207;493;14,6187;0,5317;0,7472;0,8583;0,9156;0,9488
+5-319;Andere Operationen an Larynx und Trachea;4749;368;12,9049;0,4677;0,7041;0,8332;0,904;0,9423
+5-320;Exzision und Destruktion von erkranktem Gewebe eines Bronchus;9195;456;20,1645;0,5694;0,7482;0,8524;0,9156;0,9511
+5-321;Andere Exzision und Resektion eines Bronchus (ohne Resektion des Lungenparenchyms);231;103;2,2427;0,2684;0,4502;0,5801;0,6753;0,7706
+5-322;Atypische Lungenresektion;19449;521;37,3301;0,5165;0,7352;0,8545;0,918;0,9548
+5-323;Segmentresektion und Bisegmentresektion der Lunge;2902;323;8,9845;0,5124;0,693;0,8022;0,8704;0,9139
+5-324;Einfache Lobektomie und Bilobektomie der Lunge;9579;328;29,2043;0,4411;0,6454;0,7722;0,8576;0,9131
+5-325;Erweiterte Lobektomie und Bilobektomie der Lunge;2049;202;10,1436;0,4973;0,6779;0,7862;0,8541;0,9034
+5-327;Einfache (Pleuro-)Pneum(on)ektomie;418;163;2,5644;0,3158;0,5072;0,6244;0,7129;0,7943
+5-328;Erweiterte (Pleuro-)Pneum(on)ektomie;1007;174;5,7874;0,4101;0,5829;0,7031;0,8014;0,859
+5-329;Andere Exzisionen an Lunge und Bronchus;35;29;1,2069;0,2286;0,3429;0,4286;0,5143;0,60
+5-330;Inzision eines Bronchus;68;38;1,7895;0,3971;0,5147;0,6029;0,6618;0,7206
+5-331;Inzision der Lunge;170;36;4,7222;0,7882;0,8294;0,8529;0,8706;0,8941
+5-333;Adhäsiolyse an Lunge und Brustwand;14965;477;31,3732;0,6108;0,7955;0,8862;0,9394;0,9664
+5-334;Rekonstruktion an Lunge und Bronchien;2642;325;8,1292;0,5375;0,7078;0,8051;0,869;0,9129
+5-335;Lungentransplantation;346;15;23,0667;0,5347;0,6098;0,7312;0,7832;0,8757
+5-339;Andere Operationen an Lunge und Bronchien;6158;332;18,5482;0,5166;0,698;0,8165;0,8912;0,937
+5-340;Inzision von Brustwand und Pleura;32359;984;32,8852;0,5667;0,7571;0,8522;0,9073;0,9422
+5-341;Inzision des Mediastinums;5866;252;23,2778;0,6285;0,8868;0,9477;0,9649;0,9753
+5-342;Exzision und Destruktion von erkranktem Gewebe des Mediastinums;2879;344;8,3692;0,4811;0,6745;0,7895;0,8635;0,9083
+5-343;Exzision und Destruktion von (erkranktem) Gewebe der Brustwand;6675;688;9,702;0,5494;0,72;0,8117;0,8712;0,9142
+5-344;Pleurektomie;18700;522;35,8238;0,5842;0,7885;0,8798;0,9317;0,9612
+5-345;Pleurodese [Verödung des Pleuraspaltes];11343;738;15,3699;0,5083;0,6907;0,80;0,8693;0,9182
+5-346;Plastische Rekonstruktion der Brustwand;7225;445;16,236;0,5797;0,7799;0,8781;0,926;0,954
+5-347;Operationen am Zwerchfell;4292;607;7,0708;0,497;0,6729;0,7731;0,846;0,8968
+5-349;Andere Operationen am Thorax;15193;533;28,5047;0,5832;0,8233;0,9131;0,9514;0,9706
+5-350;Valvulotomie;425;51;8,3333;0,7576;0,8424;0,8918;0,9247;0,9412
+5-351;Ersatz von Herzklappen durch Prothese;27324;83;329,2048;0,2488;0,4156;0,5394;0,6415;0,7422
+5-352;Wechsel von Herzklappenprothesen;1940;78;24,8718;0,3309;0,4851;0,5871;0,6887;0,7742
+5-353;Valvuloplastik;16165;82;197,1341;0,3149;0,4753;0,614;0,7157;0,8035
+5-354;Andere Operationen an Herzklappen;10901;82;132,939;0,3862;0,5399;0,6661;0,7547;0,8263
+5-355;Herstellung und Vergrößerung eines Septumdefektes des Herzens;269;28;9,6071;0,3717;0,5874;0,7063;0,8216;0,8885
+5-356;Plastische Rekonstruktion des Herzseptums bei angeborenen Herzfehlern;4870;80;60,875;0,4606;0,6608;0,7815;0,8593;0,9068
+5-357;Operationen bei kongenitalen Gefäßanomalien;2191;125;17,528;0,77;0,8932;0,9274;0,9466;0,9639
+5-358;Operationen bei kongenitalen Klappenanomalien des Herzens;1814;62;29,2581;0,505;0,7348;0,8749;0,9399;0,9658
+5-359;Andere Operationen am Herzen bei kongenitalen Anomalien;1720;41;41,9512;0,4483;0,6814;0,8203;0,9203;0,9738
+5-35a;Minimalinvasive Operationen an Herzklappen;18610;134;138,8806;0,3071;0,5378;0,6901;0,8199;0,908
+5-360;Desobliteration (Endarteriektomie) der Koronararterien;587;68;8,6324;0,506;0,6678;0,7666;0,8467;0,9029
+5-361;Anlegen eines aortokoronaren Bypass;79426;83;956,9398;0,2143;0,391;0,5188;0,6357;0,748
+5-362;Anlegen eines aortokoronaren Bypass durch minimalinvasive Technik;9399;75;125,32;0,6315;0,7988;0,8729;0,9159;0,9497
+5-363;Andere Revaskularisation des Herzens;3038;79;38,4557;0,4691;0,6718;0,7755;0,8532;0,9095
+5-364;Anwendung eines mechanischen Anastomosensystems bei Operationen an den Koronargefäßen;874;11;79,4545;0,6979;0,833;0,9634;0,984;0,9931
+5-369;Andere Operationen an den Koronargefäßen;560;80;7,00;0,4857;0,6661;0,7768;0,8464;0,8929
+5-370;Perikardiotomie und Kardiotomie;5131;323;15,8854;0,694;0,8694;0,923;0,946;0,9618
+5-371;Chirurgische ablative Maßnahmen bei Tachyarrhythmie;5118;78;65,6154;0,4123;0,6039;0,7286;0,8318;0,8943
+5-372;Exzision und Destruktion von erkranktem Gewebe des Perikardes und Perikardektomie;2381;235;10,1319;0,622;0,7493;0,8358;0,8933;0,9303
+5-373;Exzision und Destruktion von erkranktem Gewebe des Herzens;3928;87;45,1494;0,428;0,6046;0,736;0,8243;0,8811
+5-374;Rekonstruktion des Perikardes und des Herzens;2510;178;14,1011;0,5845;0,7478;0,8438;0,9064;0,9422
+5-375;Herz- und Herz-Lungen-Transplantation;296;21;14,0952;0,3615;0,4899;0,5946;0,6892;0,8108
+5-376;Implantation und Entfernung eines herzunterstützenden Systems, offen chirurgisch;2116;85;24,8941;0,5123;0,6999;0,8332;0,9008;0,9353
+5-377;Implantation eines Herzschrittmachers, Defibrillators und Ereignis-Rekorders;130345;986;132,1957;0,3758;0,5616;0,6994;0,8015;0,8769
+5-378;Entfernung, Wechsel und Korrektur eines Herzschrittmachers und Defibrillators;61962;938;66,0576;0,4497;0,6253;0,7418;0,8288;0,8918
+5-379;Andere Operationen an Herz und Perikard;17089;229;74,6245;0,5773;0,8168;0,957;0,986;0,9912
+5-37a;Minimalinvasive Rekonstruktion des Perikardes und des Herzens;29;17;1,7059;0,2414;0,3448;0,4828;0,6207;0,7241
+5-37b;Offen chirurgische Implantation und Entfernung von Kanülen für die Anwendung eines extrakorporalen (herz- und) lungenunterstützenden Systems mit Membranoxygenation;3161;90;35,1222;0,5147;0,7235;0,8576;0,9212;0,9579
+5-380;Inzision, Embolektomie und Thrombektomie von Blutgefäßen;66717;793;84,1324;0,3796;0,6011;0,7519;0,8585;0,9314
+5-381;Endarteriektomie;112158;623;180,0289;0,3389;0,5406;0,6818;0,7893;0,8717
+5-382;Resektion von Blutgefäßen mit Reanastomosierung;7688;605;12,7074;0,5133;0,6963;0,7985;0,8662;0,9144
+5-383;Resektion und Ersatz (Interposition) von (Teilen von) Blutgefäßen;7005;574;12,2038;0,3924;0,5939;0,7209;0,81;0,8748
+5-384;Resektion und Ersatz (Interposition) an der Aorta;13638;496;27,496;0,6007;0,756;0,8381;0,8925;0,9322
+5-385;Unterbindung, Exzision und Stripping von Varizen;129435;950;136,2474;0,6734;0,7948;0,872;0,9226;0,9556
+5-386;Andere Exzision von (erkrankten) Blutgefäßen und Transplantatentnahme;19194;661;29,0378;0,4547;0,6699;0,7957;0,8817;0,9361
+5-387;Ligatur und Teilverschluss der Vena cava;55;49;1,1224;0,20;0,2909;0,3818;0,4727;0,5636
+5-388;Naht von Blutgefäßen;28339;1004;28,2261;0,4981;0,6919;0,809;0,8861;0,9319
+5-389;Anderer operativer Verschluss an Blutgefäßen;10632;933;11,3955;0,5082;0,6705;0,7738;0,8473;0,898
+5-38a;Endovaskuläre Implantation von Stent-Prothesen;15893;457;34,7768;0,4184;0,5996;0,7261;0,8123;0,8779
+5-38b;Endoskopische Entnahme von Blutgefäßen zur Transplantation;3313;85;38,9765;0,738;0,9354;0,9695;0,978;0,9852
+5-38c;Offen chirurgische Implantation von nicht großlumigen ungecoverten Stents;6365;418;15,2273;0,4198;0,6288;0,7546;0,839;0,8966
+5-38d;Offen chirurgische Implantation von nicht großlumigen gecoverten Stents;2209;310;7,1258;0,5292;0,6772;0,7773;0,8447;0,8936
+5-38e;Offen chirurgische Implantation von großlumigen ungecoverten Stents;2293;349;6,5702;0,4658;0,6402;0,744;0,8242;0,8766
+5-38f;Offen chirurgische Angioplastie (Ballon);15120;500;30,24;0,4322;0,6191;0,7483;0,8382;0,9032
+5-38g;Selektive offene intravasale Lyse;855;224;3,817;0,4058;0,6082;0,724;0,8035;0,855
+5-390;Shuntoperationen zwischen großem und kleinem Kreislauf [Links-Rechts-Shunt];675;56;12,0536;0,5511;0,7363;0,8741;0,9333;0,9556
+5-391;Anlegen eines intraabdominalen venösen Shuntes;89;32;2,7813;0,3146;0,4831;0,6404;0,7303;0,7978
+5-392;Anlegen eines arteriovenösen Shuntes;20795;581;35,7917;0,4052;0,5881;0,7201;0,8158;0,8882
+5-393;Anlegen eines anderen Shuntes und Bypasses an Blutgefäßen;47689;620;76,9177;0,3171;0,514;0,663;0,7739;0,8579
+5-394;Revision einer Blutgefäßoperation;48652;721;67,4785;0,3983;0,6022;0,7434;0,8454;0,9205
+5-395;Patchplastik an Blutgefäßen;30638;626;48,9425;0,3853;0,5875;0,7297;0,8254;0,8959
+5-396;Transposition von Blutgefäßen;1512;280;5,40;0,5073;0,672;0,7718;0,8366;0,8849
+5-397;Andere plastische Rekonstruktion von Blutgefäßen;3928;441;8,907;0,6181;0,7744;0,8511;0,8966;0,9272
+5-398;Operationen am Glomus caroticum und anderen Paraganglien;382;115;3,3217;0,5471;0,6702;0,7435;0,801;0,8508
+5-399;Andere Operationen an Blutgefäßen;137339;1180;116,389;0,451;0,6453;0,7721;0,8576;0,9148
+5-400;Inzision von Lymphknoten und Lymphgefäßen;384;195;1,9692;0,3411;0,5026;0,6146;0,6953;0,7474
+5-401;Exzision einzelner Lymphknoten und Lymphgefäße;87584;1069;81,9308;0,4503;0,6719;0,8177;0,9016;0,9491
+5-402;Regionale Lymphadenektomie (Ausräumung mehrerer Lymphknoten einer Region) als selbständiger Eingriff;14122;842;16,772;0,4125;0,6096;0,7395;0,8299;0,8923
+5-403;Radikale zervikale Lymphadenektomie [Neck dissection];21579;491;43,9491;0,5432;0,7796;0,9043;0,9603;0,978
+5-404;Radikale (systematische) Lymphadenektomie als selbständiger Eingriff;7790;666;11,6967;0,4927;0,6759;0,7845;0,8576;0,9085
+5-405;Operationen am Ductus thoracicus;317;143;2,2168;0,3281;0,5016;0,6151;0,7035;0,776
+5-406;Regionale Lymphadenektomie (Ausräumung mehrerer Lymphknoten einer Region) im Rahmen einer anderen Operation;21802;835;26,1102;0,4659;0,67;0,7906;0,8688;0,923
+5-407;Radikale (systematische) Lymphadenektomie im Rahmen einer anderen Operation;10841;650;16,6785;0,4867;0,6868;0,7984;0,8701;0,9204
+5-408;Andere Operationen am Lymphgefäßsystem;2544;530;4,80;0,4485;0,6203;0,7327;0,8113;0,8675
+5-410;Entnahme von hämatopoetischen Stammzellen aus Knochenmark und peripherem Blut zur Transplantation;4676;121;38,6446;0,3452;0,5751;0,7151;0,8216;0,9012
+5-411;Transplantation von hämatopoetischen Stammzellen aus dem Knochenmark;485;47;10,3191;0,3485;0,5588;0,7278;0,8309;0,8948
+5-412;Inzision der Milz;29;28;1,0357;0,1379;0,2414;0,3103;0,4138;0,5172
+5-413;Splenektomie;7551;857;8,811;0,4181;0,5888;0,7102;0,7988;0,8643
+5-418;Andere Operationen am Knochenmark;15;13;1,1538;0,1333;0,3333;0,40;0,4667;0,60
+5-419;Andere Operationen an der Milz;2280;645;3,5349;0,3281;0,5123;0,6421;0,739;0,8118
+5-420;Inzision des Ösophagus;908;233;3,897;0,5639;0,6905;0,7665;0,8271;0,8722
+5-421;Ösophagostomie als selbständiger Eingriff;85;55;1,5455;0,2588;0,40;0,5412;0,6118;0,6824
+5-422;Lokale Exzision und Destruktion von erkranktem Gewebe des Ösophagus;7084;752;9,4202;0,5735;0,7146;0,8029;0,8642;0,907
+5-423;Partielle Ösophagusresektion ohne Wiederherstellung der Kontinuität;126;82;1,5366;0,246;0,3889;0,5317;0,6111;0,6746
+5-424;Partielle Ösophagusresektion mit Wiederherstellung der Kontinuität;1469;342;4,2953;0,3397;0,5187;0,6535;0,7563;0,8319
+5-425;(Totale) Ösophagektomie ohne Wiederherstellung der Kontinuität;70;45;1,5556;0,3429;0,4714;0,5571;0,6143;0,6857
+5-426;(Totale) Ösophagektomie mit Wiederherstellung der Kontinuität;1964;261;7,5249;0,4705;0,6253;0,7332;0,8167;0,8778
+5-427;Rekonstruktion der Ösophaguspassage (als selbständiger Eingriff);147;89;1,6517;0,2381;0,4014;0,5238;0,6395;0,7007
+5-428;Rekonstruktion der Ösophaguspassage bei Atresie und Versorgung einer kongenitalen ösophagotrachealen Fistel;223;72;3,0972;0,3139;0,4888;0,6323;0,7265;0,8161
+5-429;Andere Operationen am Ösophagus;53284;1049;50,795;0,4265;0,6068;0,7309;0,8194;0,8848
+5-430;Gastrotomie;537;346;1,552;0,257;0,3966;0,527;0,6127;0,6778
+5-431;Gastrostomie;52491;1255;41,8255;0,4138;0,5973;0,7192;0,8029;0,8661
+5-432;Operationen am Pylorus;2452;579;4,2349;0,3768;0,5657;0,688;0,7728;0,8405
+5-433;Lokale Exzision und Destruktion von erkranktem Gewebe des Magens;23953;1044;22,9435;0,3142;0,5034;0,6414;0,7484;0,831
+5-434;Atypische partielle Magenresektion;7290;716;10,1816;0,5919;0,7429;0,8215;0,8739;0,9133
+5-435;Partielle Magenresektion (2/3-Resektion);2236;698;3,2034;0,2934;0,4624;0,5894;0,6954;0,7867
+5-436;Subtotale Magenresektion (4/5-Resektion);1885;617;3,0551;0,3443;0,5088;0,6318;0,7284;0,7942
+5-437;(Totale) Gastrektomie;4713;770;6,1208;0,3469;0,5277;0,6565;0,7526;0,829
+5-438;(Totale) Gastrektomie mit subtotaler Ösophagusresektion;307;155;1,9806;0,316;0,4691;0,5831;0,6808;0,7492
+5-439;Andere Inzision, Exzision und Resektion am Magen;223;158;1,4114;0,2466;0,3901;0,5022;0,574;0,6457
+5-444;Vagotomie;62;40;1,55;0,371;0,4839;0,5484;0,6129;0,6774
+5-445;Gastroenterostomie ohne Magenresektion [Bypassverfahren];7083;710;9,9761;0,6261;0,7453;0,8182;0,8728;0,9127
+5-447;Revision nach Magenresektion;515;295;1,7458;0,332;0,4641;0,5806;0,6563;0,7146
+5-448;Andere Rekonstruktion am Magen;13494;909;14,8449;0,467;0,629;0,7388;0,819;0,8798
+5-449;Andere Operationen am Magen;46367;1082;42,853;0,3126;0,4921;0,6296;0,7369;0,8225
+5-450;Inzision des Darmes;4776;898;5,3185;0,3679;0,5438;0,6662;0,7573;0,8296
+5-451;Lokale Exzision und Destruktion von erkranktem Gewebe des Dünndarmes;14333;985;14,5513;0,3778;0,5637;0,6922;0,7827;0,8532
+5-452;Lokale Exzision und Destruktion von erkranktem Gewebe des Dickdarmes;166882;1134;147,1623;0,3271;0,5048;0,639;0,7479;0,8343
+5-453;Ausschaltung eines Darmsegmentes als selbständiger Eingriff (z.B. bei zweizeitigen plastischen Operationen);67;49;1,3673;0,3134;0,4179;0,4925;0,5672;0,6418
+5-454;Resektion des Dünndarmes;33769;1017;33,2045;0,329;0,4984;0,6289;0,7322;0,8147
+5-455;Partielle Resektion des Dickdarmes;91639;1035;88,5401;0,2659;0,4347;0,5702;0,6831;0,7788
+5-456;(Totale) Kolektomie und Proktokolektomie;3557;671;5,301;0,4658;0,623;0,7231;0,8004;0,8577
+5-459;Bypass-Anastomose des Darmes;4938;823;6,00;0,3799;0,5494;0,6701;0,762;0,8362
+5-460;Anlegen eines Enterostomas, doppelläufig, als selbständiger Eingriff;10144;958;10,5887;0,3418;0,5204;0,6501;0,7506;0,8289
+5-461;Anlegen eines Enterostomas, endständig, als selbständiger Eingriff;4144;829;4,9988;0,3388;0,5116;0,6412;0,7399;0,8171
+5-462;Anlegen eines Enterostomas (als protektive Maßnahme) im Rahmen eines anderen Eingriffes;14260;932;15,3004;0,3668;0,5551;0,6883;0,7844;0,856
+5-463;Anlegen anderer Enterostomata;3330;674;4,9407;0,4649;0,639;0,7405;0,8144;0,8715
+5-464;Revision und andere Eingriffe an einem Enterostoma;9264;928;9,9828;0,3547;0,5358;0,6594;0,7553;0,8306
+5-465;Rückverlagerung eines doppelläufigen Enterostomas;15133;945;16,0138;0,3562;0,5381;0,6731;0,7711;0,8455
+5-466;Wiederherstellung der Kontinuität des Darmes bei endständigen Enterostomata;5330;856;6,2266;0,322;0,4953;0,6253;0,7268;0,809
+5-467;Andere Rekonstruktion des Darmes;24036;1009;23,8216;0,39;0,5645;0,6873;0,7794;0,8507
+5-468;Intraabdominale Manipulation am Darm;1690;567;2,9806;0,3669;0,5325;0,6467;0,7373;0,8047
+5-469;Andere Operationen am Darm;373604;1149;325,1558;0,3054;0,4936;0,6386;0,7488;0,8353
+5-470;Appendektomie;115051;1034;111,2679;0,2492;0,4098;0,5408;0,654;0,75
+5-471;Simultane Appendektomie;17222;973;17,6999;0,3555;0,5403;0,6726;0,7731;0,8497
+5-479;Andere Operationen an der Appendix;427;278;1,536;0,2623;0,4075;0,534;0,6089;0,6745
+5-480;Inzision des Rektums;487;237;2,0549;0,3778;0,5133;0,6119;0,7084;0,7577
+5-482;Peranale lokale Exzision und Destruktion von erkranktem Gewebe des Rektums;24334;1043;23,3308;0,3606;0,5501;0,6845;0,7845;0,8604
+5-484;Rektumresektion unter Sphinktererhaltung;30129;983;30,6501;0,3354;0,5186;0,6515;0,7534;0,8342
+5-485;Rektumresektion ohne Sphinktererhaltung;4341;810;5,3593;0,3174;0,4978;0,6319;0,7344;0,8134
+5-486;Rekonstruktion des Rektums;5861;798;7,3446;0,4755;0,6395;0,7441;0,8181;0,8734
+5-489;Andere Operation am Rektum;13197;893;14,7783;0,3923;0,591;0,7243;0,822;0,891
+5-490;Inzision und Exzision von Gewebe der Perianalregion;50048;1051;47,6194;0,3243;0,4866;0,6105;0,7136;0,8011
+5-491;Operative Behandlung von Analfisteln;28372;997;28,4574;0,451;0,6089;0,7213;0,807;0,871
+5-492;Exzision und Destruktion von erkranktem Gewebe des Analkanals;21378;986;21,6815;0,4509;0,6151;0,7264;0,8089;0,8713
+5-493;Operative Behandlung von Hämorrhoiden;48108;1045;46,0364;0,3609;0,5345;0,6618;0,7552;0,8324
+5-494;Durchtrennung des Sphincter ani [Spinkterotomie];286;163;1,7546;0,3462;0,493;0,6014;0,6573;0,7168
+5-495;Primäre plastische Rekonstruktion bei anorektalen Anomalien;435;138;3,1522;0,3609;0,5402;0,6552;0,7494;0,8138
+5-496;Rekonstruktion des Anus und des Sphinkterapparates;4067;531;7,6591;0,5518;0,7057;0,7989;0,8606;0,9056
+5-499;Andere Operationen am Anus;5618;732;7,6749;0,5559;0,7013;0,7869;0,8462;0,8902
+5-500;Inzision der Leber;973;472;2,0614;0,3186;0,4758;0,5817;0,6783;0,7575
+5-501;Lokale Exzision und Destruktion von erkranktem Gewebe der Leber (atypische Leberresektion);16891;922;18,32;0,4822;0,6377;0,7477;0,8282;0,8872
+5-502;Anatomische (typische) Leberresektion;6928;605;11,4512;0,5484;0,6953;0,791;0,8575;0,9066
+5-503;Leberteilresektion und Hepatektomie (zur Transplantation);104;39;2,6667;0,4519;0,6346;0,7212;0,7788;0,8173
+5-504;Lebertransplantation;911;23;39,6087;0,2141;0,4632;0,5818;0,6839;0,809
+5-505;Rekonstruktion der Leber;3808;692;5,5029;0,4858;0,6408;0,744;0,8114;0,8658
+5-506;Implantation, Wechsel und Entfernung eines Katheterverweilsystems in Leberarterie und Pfortader (zur Chemotherapie);81;39;2,0769;0,3704;0,5432;0,642;0,716;0,7654
+5-509;Andere Operationen an der Leber;1242;354;3,5085;0,5958;0,6997;0,7673;0,8253;0,8575
+5-510;Cholezystotomie und Cholezystostomie;548;280;1,9571;0,396;0,5274;0,6296;0,6934;0,7445
+5-511;Cholezystektomie;198045;1047;189,1547;0,2399;0,4001;0,534;0,6477;0,7442
+5-512;Biliodigestive Anastomose (von Ductus hepaticus, Ductus choledochus und Leberparenchym);3671;579;6,3402;0,4941;0,6464;0,7475;0,8216;0,8741
+5-513;Endoskopische Operationen an den Gallengängen;255833;1027;249,1071;0,3339;0,5124;0,6503;0,7579;0,8403
+5-514;Andere Operationen an den Gallengängen;12226;793;15,4174;0,6006;0,7449;0,8268;0,8851;0,9258
+5-515;Exzision und Resektion von erkranktem Gewebe der Gallengänge;1063;335;3,1731;0,5099;0,6406;0,7281;0,7902;0,8429
+5-516;Andere Rekonstruktion der Gallengänge;1161;470;2,4702;0,385;0,5426;0,6477;0,7287;0,7976
+5-517;Einlegen oder Wechseln von selbstexpandierenden Stents und Stent-Prothesen in die Gallengänge;814;246;3,3089;0,4005;0,5737;0,6966;0,7715;0,8329
+5-518;Operationen an Sphincter Oddi und Papilla duodeni major;536;258;2,0775;0,3563;0,5056;0,5989;0,6959;0,7593
+5-519;Andere Operationen an Gallenblase und Gallengängen;626;298;2,1007;0,3594;0,5144;0,607;0,7029;0,762
+5-520;Inzision des Pankreas;285;189;1,5079;0,3298;0,4632;0,5368;0,6035;0,6702
+5-521;Lokale Exzision und Destruktion von erkranktem Gewebe des Pankreas;1354;456;2,9693;0,3959;0,5443;0,6544;0,7363;0,8043
+5-522;Marsupialisation einer Pankreaszyste;33;33;1,00;0,0909;0,2121;0,303;0,3939;0,5152
+5-523;Innere Drainage des Pankreas;888;306;2,902;0,4392;0,5833;0,6881;0,7556;0,8255
+5-524;Partielle Resektion des Pankreas;10176;635;16,0252;0,4237;0,5914;0,7112;0,7999;0,8721
+5-525;(Totale) Pankreatektomie;1318;344;3,8314;0,4507;0,61;0,7117;0,7914;0,8437
+5-526;Endoskopische Operationen am Pankreasgang;14593;739;19,747;0,5364;0,7171;0,8148;0,8812;0,9249
+5-527;Anastomose des Ductus pancreaticus;219;92;2,3804;0,5205;0,6301;0,7078;0,7489;0,79
+5-528;Transplantation von Pankreas(gewebe);123;25;4,92;0,3984;0,5203;0,6341;0,6992;0,7967
+5-529;Andere Operationen am Pankreas und am Pankreasgang;3393;536;6,3302;0,4571;0,6357;0,7483;0,822;0,8768
+5-530;Verschluss einer Hernia inguinalis;167043;1056;158,1847;0,2447;0,4005;0,5293;0,6382;0,7337
+5-531;Verschluss einer Hernia femoralis;5809;965;6,0197;0,2768;0,4464;0,582;0,6888;0,7767
+5-534;Verschluss einer Hernia umbilicalis;51314;1050;48,8705;0,2569;0,4187;0,5497;0,6613;0,756
+5-535;Verschluss einer Hernia epigastrica;9083;1009;9,002;0,2728;0,442;0,5745;0,6811;0,771
+5-536;Verschluss einer Narbenhernie;48263;1051;45,921;0,2613;0,4279;0,5619;0,6728;0,7661
+5-537;Verschluss kongenitaler Bauchwanddefekte (Omphalozele, Laparoschisis);380;125;3,04;0,3474;0,5368;0,6632;0,7526;0,8211
+5-538;Verschluss einer Hernia diaphragmatica;7546;772;9,7746;0,5048;0,6597;0,762;0,8373;0,8909
+5-539;Verschluss anderer abdominaler Hernien;4062;877;4,6317;0,3045;0,4746;0,6034;0,7073;0,7925
+5-540;Inzision der Bauchwand;4575;858;5,3322;0,4354;0,5864;0,694;0,7781;0,8426
+5-541;Laparotomie und Eröffnung des Retroperitoneums;81967;1066;76,8921;0,4178;0,5912;0,7124;0,8018;0,8704
+5-542;Exzision und Destruktion von erkranktem Gewebe der Bauchwand;8648;973;8,888;0,3588;0,5296;0,6493;0,7453;0,8225
+5-543;Exzision und Destruktion von peritonealem Gewebe;36550;1006;36,332;0,4127;0,5912;0,7145;0,8056;0,8748
+5-545;Verschluss von Bauchwand und Peritoneum;16596;1003;16,5464;0,3784;0,5554;0,6823;0,7755;0,849
+5-546;Plastische Rekonstruktion von Bauchwand und Peritoneum;10594;893;11,8634;0,4799;0,6557;0,7616;0,8359;0,8913
+5-547;Resektion von Gewebe in der Bauchregion ohne sichere Organzuordnung;4546;700;6,4943;0,4732;0,6395;0,7479;0,822;0,8773
+5-549;Andere Bauchoperationen;25661;1009;25,4321;0,4396;0,6042;0,7225;0,8061;0,8697
+5-550;Perkutan-transrenale Nephrotomie, Nephrostomie, Steinentfernung, Pyeloplastik und ureterorenoskopische Steinentfernung;42761;524;81,605;0,355;0,5592;0,713;0,8341;0,9207
+5-551;Offen chirurgische Nephrotomie, Nephrostomie, Pyelotomie und Pyelostomie;966;304;3,1776;0,3344;0,5041;0,6242;0,7205;0,7919
+5-552;Exzision und Destruktion von (erkranktem) Gewebe der Niere;4281;421;10,1686;0,3943;0,5795;0,7064;0,7998;0,8694
+5-553;Partielle Resektion der Niere;8236;408;20,1863;0,3828;0,5687;0,6946;0,7965;0,8759
+5-554;Nephrektomie;15595;541;28,8262;0,3663;0,5558;0,6971;0,809;0,8961
+5-555;Nierentransplantation;2144;43;49,8605;0,25;0,4473;0,5774;0,6875;0,8036
+5-557;Rekonstruktion der Niere;4014;392;10,2398;0,369;0,5541;0,6863;0,7833;0,853
+5-559;Andere Operationen an der Niere;1710;345;4,9565;0,4526;0,6088;0,714;0,7924;0,8538
+5-560;Transurethrale und perkutan-transrenale Erweiterung des Ureters;22943;578;39,6938;0,719;0,8561;0,9135;0,9476;0,9687
+5-561;Inzision, Resektion und (andere) Erweiterung des Ureterostiums;5269;380;13,8658;0,6208;0,7358;0,8176;0,8793;0,922
+5-562;Ureterotomie, perkutan-transrenale und transurethrale Steinbehandlung;60766;445;136,5528;0,2868;0,4718;0,6175;0,7359;0,8317
+5-563;Exzision und Destruktion von erkranktem Gewebe des Ureters, Ureterresektion und Ureterektomie;3402;471;7,2229;0,3721;0,5532;0,6867;0,7866;0,8618
+5-564;Kutane Harnableitung durch Ureterokutaneostomie (nicht kontinentes Stoma);1692;326;5,1902;0,3534;0,5355;0,669;0,7719;0,844
+5-565;Kutane Harnableitung mit Darminterponat [Conduit] (nicht kontinentes Stoma);5774;384;15,0365;0,3225;0,5095;0,6401;0,7459;0,8298
+5-566;Kutane Harnableitung mit Darmreservoir (kontinentes Stoma);515;151;3,4106;0,468;0,6117;0,7107;0,7786;0,8408
+5-567;Interne Harnableitung über den Darm;68;41;1,6585;0,2794;0,4412;0,5588;0,6324;0,7059
+5-568;Rekonstruktion des Ureters;4556;602;7,5681;0,4789;0,6506;0,7656;0,8409;0,894
+5-569;Andere Operationen am Ureter;19978;753;26,5312;0,531;0,7186;0,8237;0,8889;0,931
+5-570;Endoskopische Entfernung von Steinen, Fremdkörpern und Tamponaden der Harnblase;24418;505;48,3525;0,2954;0,4765;0,6288;0,7553;0,8617
+5-571;Zystotomie [Sectio alta];1079;327;3,2997;0,2845;0,4652;0,5959;0,6932;0,7841
+5-572;Zystostomie;68295;1208;56,5356;0,4646;0,6857;0,8173;0,8963;0,9395
+5-573;Transurethrale Inzision, Exzision, Destruktion und Resektion von (erkranktem) Gewebe der Harnblase;109484;489;223,8937;0,2698;0,4479;0,5969;0,725;0,8327
+5-574;Offen chirurgische und laparoskopische Exzision und Destruktion von (erkranktem) Gewebe der Harnblase;1461;491;2,9756;0,3244;0,4942;0,6208;0,7214;0,796
+5-575;Partielle Harnblasenresektion;2839;590;4,8119;0,4072;0,5946;0,7179;0,8003;0,8605
+5-576;Zystektomie;8026;409;19,6235;0,3048;0,4814;0,6209;0,7305;0,8216
+5-577;Ersatz der Harnblase;2134;322;6,6273;0,3299;0,5023;0,6354;0,7338;0,8144
+5-578;Andere plastische Rekonstruktion der Harnblase;6278;864;7,2662;0,3839;0,5564;0,6774;0,7701;0,8436
+5-579;Andere Operationen an der Harnblase;15060;587;25,6559;0,4687;0,6513;0,777;0,8648;0,9253
+5-580;Offen chirurgische Urethrotomie und Urethrostomie;370;165;2,2424;0,3838;0,5135;0,6135;0,70;0,7784
+5-581;Plastische Meatotomie der Urethra;5068;418;12,1244;0,4144;0,5807;0,69;0,7818;0,8516
+5-582;Exzision, Destruktion und Resektion von (erkranktem) Gewebe der Urethra;4786;505;9,4772;0,336;0,5096;0,6458;0,756;0,8422
+5-583;Urethrektomie als selbständiger Eingriff;205;127;1,6142;0,2341;0,40;0,5268;0,6293;0,6927
+5-584;Rekonstruktion der Urethra;3580;372;9,6237;0,5883;0,7179;0,8087;0,8715;0,914
+5-585;Transurethrale Inzision von (erkranktem) Gewebe der Urethra;29400;467;62,955;0,3042;0,4866;0,6296;0,7442;0,8366
+5-589;Andere Operationen an Urethra und periurethralem Gewebe;2477;458;5,4083;0,587;0,7077;0,7856;0,8442;0,8862
+5-590;Inzision und Exzision von retroperitonealem Gewebe;15381;955;16,1058;0,5249;0,6753;0,776;0,8453;0,8975
+5-591;Inzision und Exzision von perivesikalem Gewebe;884;343;2,5773;0,4785;0,6075;0,6855;0,7624;0,8066
+5-592;Raffung des urethrovesikalen Überganges;210;25;8,40;0,6905;0,80;0,8905;0,9238;0,9429
+5-593;Transvaginale Suspensionsoperation [Zügeloperation];15482;687;22,5357;0,3911;0,5643;0,689;0,7834;0,8549
+5-594;Suprapubische (urethrovesikale) Zügeloperation [Schlingenoperation];1012;191;5,2984;0,498;0,6779;0,7717;0,834;0,8814
+5-595;Abdominale retropubische und paraurethrale Suspensionsoperation;2828;365;7,7479;0,5262;0,6955;0,7946;0,8557;0,9017
+5-596;Andere Harninkontinenzoperationen;2012;328;6,1341;0,4374;0,6228;0,7425;0,8226;0,8762
+5-597;Eingriffe bei artifiziellem Harnblasensphinkter;1937;237;8,173;0,4517;0,6211;0,7445;0,8291;0,8854
+5-598;Suspensionsoperation [Zügeloperation] bei Harninkontinenz des Mannes;633;142;4,4577;0,4234;0,6082;0,722;0,7962;0,8483
+5-599;Andere Operationen am Harntrakt;2135;419;5,0955;0,4679;0,6417;0,7457;0,815;0,8726
+5-600;Inzision der Prostata;464;135;3,437;0,5086;0,6509;0,7435;0,7996;0,8556
+5-601;Transurethrale Exzision und Destruktion von Prostatagewebe;63726;415;153,5566;0,2442;0,4071;0,546;0,6606;0,7618
+5-602;Transrektale und perkutane Destruktion von Prostatagewebe;1172;73;16,0548;0,6374;0,773;0,8404;0,8899;0,9317
+5-603;Exzision und Destruktion von Prostatagewebe;4202;356;11,8034;0,332;0,5055;0,6402;0,7444;0,8289
+5-604;Radikale Prostatovesikulektomie;19840;362;54,8066;0,4333;0,5916;0,7072;0,7927;0,8599
+5-605;Andere Exzision und Destruktion von Prostatagewebe;45;41;1,0976;0,1778;0,2667;0,3556;0,4444;0,5556
+5-606;Operationen an den Vesiculae seminales;139;102;1,3627;0,2518;0,3957;0,4892;0,5612;0,6331
+5-607;Inzision und Exzision von periprostatischem Gewebe;374;202;1,8515;0,3503;0,4866;0,5989;0,6765;0,7299
+5-609;Andere Operationen an der Prostata;5006;377;13,2785;0,3672;0,5352;0,6662;0,7651;0,8412
+5-610;Inzision an Skrotum und Tunica vaginalis testis;3615;634;5,7019;0,405;0,5986;0,7242;0,816;0,8763
+5-611;Operation einer Hydrocele testis;9052;792;11,4293;0,3902;0,6116;0,7635;0,86;0,9163
+5-612;Exzision und Destruktion von erkranktem Skrotumgewebe;2645;583;4,5369;0,3505;0,5422;0,6752;0,7728;0,8465
+5-613;Plastische Rekonstruktion von Skrotum und Tunica vaginalis testis;528;267;1,9775;0,3277;0,4792;0,5814;0,6837;0,7481
+5-619;Andere Operationen an Skrotum und Tunica vaginalis testis;319;184;1,7337;0,2978;0,4451;0,558;0,6552;0,7116
+5-620;Inzision des Hodens;139;91;1,5275;0,3165;0,446;0,5396;0,6043;0,6763
+5-621;Exzision und Destruktion von erkranktem Gewebe des Hodens;1225;345;3,5507;0,3478;0,5298;0,6669;0,7584;0,8269
+5-622;Orchidektomie;10595;691;15,3329;0,3395;0,5544;0,7208;0,8429;0,9271
+5-624;Orchidopexie;12114;483;25,0807;0,4028;0,598;0,7299;0,8244;0,8938
+5-625;Exploration bei Kryptorchismus;370;119;3,1092;0,3595;0,5324;0,6486;0,7324;0,7973
+5-626;Operative Verlagerung eines Abdominalhodens;314;82;3,8293;0,3248;0,4904;0,6465;0,7516;0,828
+5-627;Rekonstruktion des Hodens;145;109;1,3303;0,2276;0,3793;0,4759;0,5517;0,6276
+5-628;Implantation, Wechsel und Entfernung einer Hodenprothese;935;207;4,5169;0,4396;0,6053;0,7241;0,8043;0,861
+5-629;Andere Operationen am Hoden;4460;414;10,7729;0,3509;0,557;0,691;0,7926;0,8679
+5-630;Operative Behandlung einer Varikozele und einer Hydrocele funiculi spermatici;2336;437;5,3455;0,3844;0,5736;0,7072;0,8005;0,8634
+5-631;Exzision im Bereich der Epididymis;9852;571;17,2539;0,4023;0,6004;0,7365;0,8341;0,9022
+5-633;Epididymektomie;1135;311;3,6495;0,3198;0,504;0,6308;0,7251;0,8053
+5-634;Rekonstruktion des Funiculus spermaticus;2012;366;5,4973;0,2992;0,4801;0,6193;0,7261;0,8121
+5-635;Vasotomie des Ductus deferens;145;32;4,5313;0,6897;0,80;0,8483;0,869;0,8897
+5-636;Destruktion, Ligatur und Resektion des Ductus deferens;2024;450;4,4978;0,5875;0,7016;0,7752;0,8266;0,871
+5-637;Rekonstruktion von Ductus deferens und Epididymis;112;86;1,3023;0,2232;0,3661;0,4643;0,5357;0,6161
+5-639;Andere Operationen an Funiculus spermaticus, Epididymis und Ductus deferens;1280;368;3,4783;0,5344;0,6594;0,7406;0,7984;0,8563
+5-640;Operationen am Präputium;20753;734;28,2738;0,4376;0,6469;0,7853;0,8836;0,9426
+5-641;Lokale Exzision und Destruktion von erkranktem Gewebe des Penis;3411;431;7,9142;0,5312;0,6939;0,7921;0,8584;0,9038
+5-642;Amputation des Penis;1085;288;3,7674;0,3751;0,5198;0,6258;0,7217;0,8018
+5-643;Plastische Rekonstruktion des Penis;2288;342;6,6901;0,4515;0,6202;0,7347;0,8134;0,8737
+5-644;Plastische Rekonstruktion bei männlicher Epispadie;91;35;2,60;0,6264;0,6923;0,7363;0,7692;0,8132
+5-645;Plastische Rekonstruktion bei männlicher Hypospadie;4378;210;20,8476;0,606;0,7682;0,8668;0,9239;0,9534
+5-646;Operationen zur Geschlechtsumwandlung;1051;26;40,4231;0,6261;0,7412;0,8725;0,9429;0,9667
+5-649;Andere Operationen am Penis;1842;338;5,4497;0,4946;0,6379;0,7329;0,8073;0,8626
+5-650;Inzision des Ovars;2446;601;4,0699;0,381;0,5491;0,6672;0,751;0,8258
+5-651;Lokale Exzision und Destruktion von Ovarialgewebe;51611;930;55,4957;0,3413;0,531;0,6749;0,7876;0,8746
+5-652;Ovariektomie;5737;805;7,1267;0,3518;0,524;0,6538;0,7547;0,8348
+5-653;Salpingoovariektomie;44720;856;52,243;0,311;0,4985;0,6465;0,762;0,8573
+5-656;Plastische Rekonstruktion des Ovars;2668;419;6,3675;0,5022;0,663;0,7612;0,8317;0,8819
+5-657;Adhäsiolyse an Ovar und Tuba uterina ohne mikrochirurgische Versorgung;44773;810;55,2753;0,3872;0,5726;0,7018;0,8009;0,8757
+5-658;Adhäsiolyse an Ovar und Tuba uterina mit mikrochirurgischer Versorgung;1807;384;4,7057;0,4538;0,6187;0,7261;0,8041;0,8616
+5-659;Andere Operationen am Ovar;2166;578;3,7474;0,3615;0,5254;0,6394;0,7322;0,8116
+5-660;Salpingotomie;2558;558;4,5842;0,3116;0,4836;0,6122;0,7162;0,7998
+5-661;Salpingektomie;30049;709;42,3822;0,3984;0,5984;0,7332;0,8264;0,8899
+5-663;Destruktion und Verschluss der Tubae uterinae [Sterilisationsoperation];9655;597;16,1725;0,3391;0,5359;0,6825;0,7875;0,8671
+5-665;Exzision und Destruktion von erkranktem Gewebe der Tuba uterina;3528;657;5,3699;0,4053;0,5689;0,6871;0,7735;0,8441
+5-666;Plastische Rekonstruktion der Tuba uterina;768;244;3,1475;0,4622;0,6172;0,7148;0,7813;0,8411
+5-667;Insufflation der Tubae uterinae;10866;623;17,4414;0,569;0,7078;0,7918;0,8541;0,9021
+5-669;Andere Operationen an der Tuba uterina;297;201;1,4776;0,2694;0,4209;0,5253;0,5926;0,6633
+5-670;Dilatation des Zervikalkanals;4780;461;10,3688;0,691;0,7983;0,8565;0,8981;0,9285
+5-671;Konisation der Cervix uteri;7190;610;11,7869;0,4819;0,6488;0,7554;0,8306;0,8854
+5-672;Andere Exzision und Destruktion von erkranktem Gewebe der Cervix uteri;3399;546;6,2253;0,516;0,6452;0,7385;0,8085;0,8626
+5-673;Amputation der Cervix uteri;196;99;1,9798;0,3878;0,5102;0,6122;0,699;0,75
+5-674;Rekonstruktion der Cervix uteri in der Gravidität;3540;340;10,4118;0,4932;0,6802;0,7907;0,8616;0,9096
+5-675;Andere Rekonstruktion der Cervix uteri;665;313;2,1246;0,3474;0,5053;0,6045;0,6977;0,7654
+5-679;Andere Operationen an der Cervix uteri;1372;333;4,1201;0,4606;0,6261;0,7296;0,8025;0,8557
+5-680;Inzision des Uterus [Hysterotomie];102;72;1,4167;0,3039;0,4314;0,5098;0,5784;0,6471
+5-681;Exzision und Destruktion von erkranktem Gewebe des Uterus;42715;746;57,2587;0,418;0,6005;0,725;0,813;0,8819
+5-682;Subtotale Uterusexstirpation;21347;611;34,9378;0,4192;0,6043;0,7309;0,8225;0,8912
+5-683;Uterusexstirpation [Hysterektomie];82489;783;105,3499;0,2544;0,4322;0,5751;0,6939;0,7944
+5-684;Zervixstumpfexstirpation;642;328;1,9573;0,31;0,4611;0,5607;0,6636;0,7445
+5-685;Radikale Uterusexstirpation;6616;611;10,8282;0,3537;0,5271;0,6518;0,7509;0,8328
+5-686;Radikale Zervixstumpfexstirpation;114;70;1,6286;0,4298;0,5088;0,5702;0,6316;0,693
+5-687;Exenteration [Eviszeration] des weiblichen kleinen Beckens;1409;298;4,7282;0,3598;0,5358;0,6622;0,7594;0,8375
+5-689;Andere Inzision und Exzision des Uterus;181;34;5,3235;0,8232;0,8508;0,8674;0,8895;0,9061
+5-690;Therapeutische Kürettage [Abrasio uteri];46855;706;66,3669;0,292;0,4638;0,5953;0,7043;0,7936
+5-691;Entfernung eines intrauterinen Fremdkörpers;4331;651;6,6528;0,3106;0,4759;0,604;0,7102;0,7982
+5-692;Exzision und Destruktion von erkranktem Gewebe der Parametrien;969;301;3,2193;0,549;0,6625;0,7399;0,8019;0,8452
+5-693;Plastische Rekonstruktion der Parametrien (bei Lagekorrektur des Uterus);334;103;3,2427;0,503;0,6677;0,7485;0,8084;0,8473
+5-694;Parazervikale Uterusdenervation;3;3;1,00;0,3333;0,3333;0,3333;0,3333;0,6667
+5-695;Rekonstruktion des Uterus;2411;426;5,6596;0,5525;0,6902;0,7789;0,8407;0,8864
+5-699;Andere Operationen an Uterus und Parametrien;321;185;1,7351;0,3801;0,4922;0,5981;0,6542;0,7134
+5-700;Kuldotomie;678;315;2,1524;0,4071;0,5295;0,6239;0,7153;0,7684
+5-701;Inzision der Vagina;1452;492;2,9512;0,3354;0,4931;0,6129;0,7142;0,7831
+5-702;Lokale Exzision und Destruktion von erkranktem Gewebe der Vagina und des Douglasraumes;20505;779;26,3222;0,5013;0,6613;0,7652;0,8422;0,8965
+5-703;Verschluss und (sub-)totale Exstirpation der Vagina;2072;497;4,169;0,4271;0,5917;0,7008;0,7799;0,8427
+5-704;Vaginale Kolporrhaphie und Beckenbodenplastik;79558;739;107,6563;0,3392;0,5067;0,6342;0,7356;0,8198
+5-705;Konstruktion und Rekonstruktion der Vagina;1034;243;4,2551;0,6712;0,766;0,8201;0,8588;0,883
+5-706;Andere plastische Rekonstruktion der Vagina;3599;697;5,1636;0,3518;0,5251;0,6502;0,7463;0,8241
+5-707;Plastische Rekonstruktion des kleinen Beckens und des Douglasraumes;6829;506;13,496;0,5056;0,6865;0,7987;0,8698;0,9186
+5-709;Andere Operationen an Vagina und Douglasraum;622;323;1,9257;0,3167;0,4727;0,5756;0,6785;0,7412
+5-710;Inzision der Vulva;2272;547;4,1536;0,3385;0,5154;0,6448;0,746;0,82
+5-711;Operationen an der Bartholin-Drüse (Zyste);3224;632;5,1013;0,3158;0,4833;0,6114;0,7146;0,7975
+5-712;Andere Exzision und Destruktion von erkranktem Gewebe der Vulva;8397;714;11,7605;0,4126;0,5869;0,7047;0,7916;0,8584
+5-713;Operationen an der Klitoris;643;163;3,9448;0,6843;0,7698;0,8196;0,8476;0,874
+5-714;Vulvektomie;2856;533;5,3583;0,3561;0,5277;0,6523;0,7493;0,826
+5-715;Radikale Vulvektomie;823;301;2,7342;0,3633;0,5249;0,6403;0,7217;0,7971
+5-716;Konstruktion und Rekonstruktion der Vulva (und des Perineums);3107;518;5,9981;0,542;0,6707;0,7551;0,8214;0,8716
+5-718;Andere Operationen an der Vulva;450;238;1,8908;0,3333;0,4889;0,5911;0,6822;0,7356
+5-719;Andere Operationen an den weiblichen Geschlechtsorganen;73;50;1,46;0,3425;0,4521;0,5205;0,589;0,6575
+5-720;Zangenentbindung;2366;285;8,3018;0,5435;0,697;0,7933;0,8588;0,9049
+5-724;Drehung des kindlichen Kopfes mit Zange;65;12;5,4167;0,6923;0,7538;0,8462;0,8769;0,9077
+5-725;Extraktion bei Beckenendlage;182;84;2,1667;0,3736;0,522;0,6154;0,7143;0,7692
+5-727;Spontane und vaginale operative Entbindung bei Beckenendlage;1681;240;7,0042;0,5419;0,6835;0,7835;0,8537;0,9012
+5-728;Vakuumentbindung;34666;536;64,6754;0,3344;0,511;0,6412;0,7423;0,8238
+5-729;Andere instrumentelle Entbindung;17;10;1,70;0,4118;0,5294;0,5882;0,6471;0,7059
+5-730;Künstliche Fruchtblasensprengung [Amniotomie];52127;505;103,2218;0,4312;0,6327;0,7587;0,8442;0,908
+5-731;Andere operative Geburtseinleitung;553;21;26,3333;0,8264;0,9602;0,9711;0,9765;0,9819
+5-732;Innere und kombinierte Wendung ohne und mit Extraktion;117;49;2,3878;0,4786;0,6325;0,7094;0,7521;0,7949
+5-733;Misslungene vaginale operative Entbindung;449;187;2,4011;0,3385;0,49;0,5924;0,6771;0,7617
+5-734;Operative Maßnahmen am Feten zur Geburtserleichterung;17;15;1,1333;0,2353;0,2941;0,4118;0,4706;0,5882
+5-738;Episiotomie und Naht;69097;553;124,9494;0,2723;0,4429;0,5774;0,6895;0,7826
+5-739;Andere Operationen zur Unterstützung der Geburt;80;21;3,8095;0,6625;0,7625;0,8125;0,8375;0,875
+5-740;Klassische Sectio caesarea;37324;508;73,4724;0,5048;0,7036;0,8212;0,8923;0,9363
+5-741;Sectio caesarea, suprazervikal und korporal;7992;312;25,6154;0,8009;0,8978;0,9338;0,9555;0,9695
+5-742;Sectio caesarea extraperitonealis;71;52;1,3654;0,3099;0,4085;0,493;0,5634;0,6338
+5-743;Entfernung eines intraperitonealen Embryos;35;31;1,129;0,20;0,2857;0,3714;0,4571;0,5714
+5-744;Operationen bei Extrauteringravidität;7127;617;11,5511;0,2913;0,4633;0,5914;0,6954;0,7843
+5-749;Andere Sectio caesarea;176800;577;306,4125;0,3104;0,4978;0,6344;0,7378;0,8208
+5-750;Intraamniale Injektion zur Beendigung der Schwangerschaft;12;10;1,20;0,1667;0,3333;0,4167;0,50;0,5833
+5-751;Kürettage zur Beendigung der Schwangerschaft [Abruptio];1082;258;4,1938;0,4501;0,5933;0,6959;0,7745;0,841
+5-752;Andere Operationen zur Beendigung einer Schwangerschaft;26;18;1,4444;0,3077;0,4615;0,50;0,5769;0,6538
+5-753;Therapeutische Amniozentese [Amnionpunktion];931;84;11,0833;0,6477;0,7895;0,8668;0,9205;0,9441
+5-754;Intrauterine Therapie des Feten;983;74;13,2838;0,647;0,8301;0,8901;0,9288;0,9502
+5-755;Andere intrauterine Operationen am Feten;63;12;5,25;0,5238;0,7302;0,873;0,8889;0,9048
+5-756;Entfernung zurückgebliebener Plazenta (postpartal);24584;588;41,8095;0,3526;0,5443;0,6752;0,7714;0,8438
+5-757;Uterusexstirpation, geburtshilflich;298;183;1,6284;0,2517;0,4094;0,5302;0,6309;0,6946
+5-758;Rekonstruktion weiblicher Geschlechtsorgane nach Ruptur, post partum [Dammriss];232809;571;407,7215;0,3087;0,4966;0,6308;0,7345;0,8198
+5-759;Andere geburtshilfliche Operationen;1436;364;3,9451;0,4241;0,5954;0,7047;0,7862;0,8398
+5-760;Reposition einer lateralen Mittelgesichtsfraktur;5409;260;20,8038;0,4308;0,6974;0,8425;0,9087;0,9484
+5-761;Reposition einer zentralen Mittelgesichtsfraktur;1301;169;7,6982;0,3536;0,5542;0,7002;0,8048;0,8786
+5-762;Reposition einer zentrolateralen Mittelgesichtsfraktur;700;135;5,1852;0,4043;0,5771;0,7057;0,7929;0,86
+5-763;Reposition anderer kombinierter Mittelgesichtsfrakturen (Mehrfachfraktur);704;135;5,2148;0,4219;0,6264;0,75;0,8281;0,8778
+5-764;Reposition einer Fraktur des Corpus mandibulae und des Processus alveolaris mandibulae;3337;165;20,2242;0,3785;0,6053;0,7785;0,8858;0,9389
+5-765;Reposition einer Fraktur des Ramus mandibulae und des Processus articularis mandibulae;2556;144;17,75;0,3615;0,5681;0,7195;0,8431;0,9174
+5-766;Reposition einer Orbitafraktur;6215;249;24,9598;0,4438;0,6666;0,8024;0,8856;0,9377
+5-767;Reposition einer Stirnhöhlenwandfraktur;549;142;3,8662;0,2787;0,4699;0,623;0,7304;0,8106
+5-768;Reosteotomien disloziert verheilter Gesichtsschädelfrakturen;75;48;1,5625;0,2267;0,3733;0,48;0,6133;0,68
+5-769;Andere Operationen bei Gesichtsschädelfrakturen;7193;179;40,1844;0,4383;0,6573;0,8063;0,9137;0,9582
+5-770;Inzision (Osteotomie), lokale Exzision und Destruktion (von erkranktem Gewebe) eines Gesichtsschädelknochens;13025;218;59,7477;0,5559;0,7988;0,9201;0,9747;0,9864
+5-771;Partielle und totale Resektion eines Gesichtsschädelknochens;2326;176;13,2159;0,5129;0,6879;0,816;0,8882;0,9351
+5-772;Partielle und totale Resektion der Mandibula;2660;145;18,3448;0,3662;0,5932;0,7632;0,8695;0,9353
+5-773;Arthroplastik am Kiefergelenk;524;113;4,6372;0,458;0,6336;0,7309;0,8073;0,8645
+5-774;Plastische Rekonstruktion und Augmentation der Maxilla;1468;119;12,3361;0,3849;0,5736;0,7153;0,8174;0,8869
+5-775;Plastische Rekonstruktion und Augmentation der Mandibula;1794;116;15,4655;0,3857;0,5836;0,7369;0,8328;0,9069
+5-776;Osteotomie zur Verlagerung des Untergesichtes;3681;125;29,448;0,3629;0,5249;0,6607;0,7637;0,8544
+5-777;Osteotomie zur Verlagerung des Mittelgesichtes;2863;127;22,5433;0,4048;0,5718;0,7003;0,8048;0,8805
+5-778;Rekonstruktion der Weichteile im Gesicht;5541;500;11,082;0,6167;0,7829;0,8616;0,9081;0,939
+5-779;Andere Operationen an Kiefergelenk und Gesichtsschädelknochen;8432;236;35,7288;0,5002;0,7403;0,8911;0,961;0,98
+5-77a;Implantatversorgung für die Rekonstruktion mit Gesichtsepithesen;404;87;4,6437;0,4827;0,6015;0,7054;0,7847;0,8515
+5-77b;Knochentransplantation und -transposition an Kiefer- und Gesichtsschädelknochen;1846;117;15,7778;0,4502;0,6473;0,7958;0,8868;0,9328
+5-780;Inzision am Knochen, septisch und aseptisch;67391;1117;60,3321;0,5274;0,6893;0,7885;0,8578;0,9075
+5-781;Osteotomie und Korrekturosteotomie;28983;1026;28,2485;0,5163;0,6853;0,7846;0,853;0,9039
+5-782;Exzision und Resektion von erkranktem Knochengewebe;77794;1136;68,4806;0,4863;0,6612;0,7706;0,8454;0,8995
+5-783;Entnahme eines Knochentransplantates;64109;1068;60,0272;0,4893;0,6796;0,7902;0,8658;0,9178
+5-784;Knochentransplantation und -transposition;80599;1075;74,9758;0,4824;0,6551;0,7677;0,8453;0,9019
+5-785;Implantation von alloplastischem Knochenersatz;21338;974;21,9076;0,4873;0,6599;0,7697;0,8482;0,9041
+5-786;Osteosyntheseverfahren;118618;1115;106,3839;0,4808;0,679;0,7951;0,8686;0,9172
+5-787;Entfernung von Osteosynthesematerial;173170;1142;151,6375;0,348;0,5151;0,6411;0,7399;0,8189
+5-788;Operationen an Metatarsale und Phalangen des Fußes;137403;1094;125,5969;0,5236;0,7137;0,816;0,8793;0,9225
+5-789;Andere Operationen am Knochen;8525;835;10,2096;0,6511;0,7722;0,8416;0,889;0,9232
+5-790;Geschlossene Reposition einer Fraktur oder Epiphysenlösung mit Osteosynthese;154149;1073;143,6617;0,3036;0,4778;0,6104;0,717;0,8045
+5-791;Offene Reposition einer einfachen Fraktur im Schaftbereich eines langen Röhrenknochens;17215;1042;16,5211;0,3103;0,4879;0,624;0,7287;0,8098
+5-792;Offene Reposition einer Mehrfragment-Fraktur im Schaftbereich eines langen Röhrenknochens;28802;1031;27,936;0,3138;0,4897;0,622;0,7283;0,8137
+5-793;Offene Reposition einer einfachen Fraktur im Gelenkbereich eines langen Röhrenknochens;113917;1091;104,4152;0,2773;0,4495;0,5873;0,6989;0,7897
+5-794;Offene Reposition einer Mehrfragment-Fraktur im Gelenkbereich eines langen Röhrenknochens;196800;1080;182,2222;0,2914;0,4632;0,5965;0,7064;0,7975
+5-795;Offene Reposition einer einfachen Fraktur an kleinen Knochen;22255;1060;20,9953;0,3511;0,5276;0,6539;0,751;0,8273
+5-796;Offene Reposition einer Mehrfragment-Fraktur an kleinen Knochen;31871;1048;30,4113;0,3509;0,529;0,6602;0,7594;0,8357
+5-797;Offene Reposition einer Fraktur an Talus und Kalkaneus;5769;828;6,9674;0,3954;0,5809;0,6994;0,7861;0,8514
+5-798;Offene Reposition einer Beckenrand- und Beckenringfraktur;3389;427;7,9368;0,455;0,6447;0,7616;0,8392;0,8941
+5-799;Offene Reposition einer Azetabulum- und Hüftkopffraktur mit Osteosynthese;2401;375;6,4027;0,4198;0,6089;0,7284;0,8109;0,8692
+5-79a;Geschlossene Reposition einer Gelenkluxation mit Osteosynthese;8773;925;9,4843;0,4343;0,614;0,7324;0,8157;0,8748
+5-79b;Offene Reposition einer Gelenkluxation;16541;1038;15,9355;0,4008;0,5803;0,6982;0,7875;0,8538
+5-79c;Andere Reposition von Fraktur und Luxation;230;81;2,8395;0,5391;0,6696;0,7391;0,787;0,8261
+5-800;Offen chirurgische Revision eines Gelenkes;163856;1117;146,6929;0,5295;0,6925;0,7908;0,8597;0,9095
+5-801;Offen chirurgische Operation am Gelenkknorpel und an den Menisken;16722;1004;16,6554;0,5106;0,6676;0,7695;0,8427;0,8964
+5-802;Offen chirurgische Refixation und Naht am Kapselbandapparat des Kniegelenkes;5519;878;6,2859;0,4086;0,5775;0,6952;0,784;0,8514
+5-803;Offen chirurgische Bandplastik am Kniegelenk;3684;681;5,4097;0,4959;0,6515;0,7511;0,8249;0,8789
+5-804;Offen chirurgische Operationen an der Patella und ihrem Halteapparat;26193;969;27,031;0,6249;0,7714;0,8515;0,9007;0,9356
+5-805;Offen chirurgische Refixation und Plastik am Kapselbandapparat des Schultergelenkes;42969;1017;42,2507;0,452;0,6239;0,7389;0,8215;0,8828
+5-806;Offen chirurgische Refixation und Plastik am Kapselbandapparat des Sprunggelenkes;14785;973;15,1953;0,4311;0,603;0,7219;0,808;0,872
+5-807;Offen chirurgische Refixation am Kapselbandapparat anderer Gelenke;9645;970;9,9433;0,4287;0,5924;0,7077;0,7962;0,8614
+5-808;Arthrodese;39451;1021;38,6396;0,5359;0,7165;0,8174;0,8807;0,9233
+5-809;Andere offen chirurgische Gelenkoperationen;9197;865;10,6324;0,5218;0,6881;0,7887;0,855;0,9039
+5-810;Arthroskopische Gelenkrevision;144967;1082;133,9806;0,4824;0,6533;0,7613;0,8371;0,8916
+5-811;Arthroskopische Operation an der Synovialis;187261;1080;173,3898;0,5029;0,6716;0,776;0,8499;0,9033
+5-812;Arthroskopische Operation am Gelenkknorpel und an den Menisken;253339;1087;233,0626;0,4266;0,597;0,7109;0,7946;0,8599
+5-813;Arthroskopische Refixation und Plastik am Kapselbandapparat des Kniegelenkes;38863;1005;38,6697;0,4923;0,6524;0,7561;0,8314;0,8881
+5-814;Arthroskopische Refixation und Plastik am Kapselbandapparat des Schultergelenkes;160159;1028;155,7967;0,4624;0,6493;0,7669;0,8496;0,9075
+5-815;Arthroskopische Entfernung und arthroskopischer Wechsel eines Bandersatzes am Kniegelenk;2192;382;5,7382;0,5853;0,7308;0,8125;0,8645;0,8996
+5-819;Andere arthroskopische Operationen;20657;909;22,725;0,6315;0,7719;0,8528;0,9064;0,9402
+5-820;Implantation einer Endoprothese am Hüftgelenk;210814;1072;196,6549;0,3192;0,4844;0,6047;0,703;0,7847
+5-821;Revision, Wechsel und Entfernung einer Endoprothese am Hüftgelenk;34388;1023;33,6149;0,3738;0,557;0,682;0,7746;0,8483
+5-822;Implantation einer Endoprothese am Kniegelenk;139001;991;140,2634;0,3406;0,5189;0,6445;0,743;0,8202
+5-823;Revision, Wechsel und Entfernung einer Endoprothese am Kniegelenk;23162;957;24,2027;0,39;0,5733;0,6986;0,7904;0,859
+5-824;Implantation einer Endoprothese an Gelenken der oberen Extremität;20536;1006;20,4135;0,3575;0,527;0,6551;0,7543;0,8331
+5-825;Revision, Wechsel und Entfernung einer Endoprothese an Gelenken der oberen Extremität;3550;687;5,1674;0,4034;0,5715;0,689;0,7755;0,8411
+5-826;Implantation einer Endoprothese an Gelenken der unteren Extremität;1313;285;4,607;0,4707;0,6352;0,7411;0,8149;0,8667
+5-827;Revision, Wechsel und Entfernung einer Endoprothese an Gelenken der unteren Extremität;733;275;2,6655;0,4584;0,6071;0,704;0,7749;0,8131
+5-828;Implantation, Revision, Wechsel und Entfernung eines Knochenteilersatzes und Knochentotalersatzes;1633;326;5,0092;0,6607;0,7593;0,8236;0,8653;0,9002
+5-829;Andere gelenkplastische Eingriffe;75854;1036;73,2181;0,4867;0,6663;0,775;0,8511;0,9065
+5-830;Inzision von erkranktem Knochen- und Gelenkgewebe der Wirbelsäule;33287;714;46,6204;0,6621;0,8244;0,9016;0,9418;0,966
+5-831;Exzision von erkranktem Bandscheibengewebe;148933;755;197,2623;0,3643;0,5592;0,7026;0,8083;0,8869
+5-832;Exzision von erkranktem Knochen- und Gelenkgewebe der Wirbelsäule;106172;751;141,3742;0,4676;0,6625;0,7913;0,8811;0,9391
+5-835;Knochenersatz an der Wirbelsäule;43161;616;70,0666;0,5032;0,7043;0,8244;0,895;0,9405
+5-836;Spondylodese;70649;748;94,4505;0,4244;0,6246;0,7548;0,8494;0,9162
+5-837;Wirbelkörperersatz und komplexe Rekonstruktion der Wirbelsäule;10357;504;20,5496;0,4838;0,6678;0,7852;0,8634;0,9167
+5-838;Andere komplexe Rekonstruktionen der Wirbelsäule;3979;333;11,9489;0,563;0,7442;0,8361;0,8914;0,9289
+5-839;Andere Operationen an der Wirbelsäule;174716;965;181,0528;0,3994;0,6009;0,7392;0,8373;0,9052
+5-83a;Minimal-invasive Behandlungsverfahren an der Wirbelsäule (zur Schmerztherapie);27586;509;54,1965;0,5361;0,7379;0,8491;0,9129;0,9522
+5-83b;Osteosynthese (dynamische Stabilisierung) an der Wirbelsäule;127312;819;155,4481;0,4283;0,6333;0,773;0,8663;0,9258
+5-83w;Zusatzinformationen zu Operationen an der Wirbelsäule;9755;568;17,1743;0,4274;0,6241;0,7482;0,8391;0,9016
+5-840;Operationen an Sehnen der Hand;45346;997;45,4824;0,5359;0,7271;0,8298;0,8933;0,9348
+5-841;Operationen an Bändern der Hand;17883;953;18,765;0,5477;0,727;0,8301;0,892;0,93
+5-842;Operationen an Faszien der Hohlhand und der Finger;14043;782;17,9578;0,4885;0,6932;0,8116;0,8839;0,9289
+5-843;Operationen an Muskeln der Hand;1427;397;3,5945;0,4499;0,6097;0,712;0,7877;0,8437
+5-844;Revision an Gelenken der Hand;10445;783;13,3397;0,5255;0,7122;0,8171;0,8814;0,9227
+5-845;Synovialektomie an der Hand;12595;606;20,7838;0,5705;0,7568;0,8573;0,9134;0,9458
+5-846;Arthrodese an Gelenken der Hand;5728;688;8,3256;0,4618;0,6578;0,775;0,8518;0,901
+5-847;Resektionsarthroplastik an Gelenken der Hand;9747;605;16,1107;0,4708;0,6628;0,7874;0,8695;0,921
+5-848;Operationen bei kongenitalen Anomalien der Hand;104;37;2,8108;0,6442;0,7019;0,75;0,7885;0,8269
+5-849;Andere Operationen an der Hand;13096;874;14,984;0,5365;0,7204;0,8193;0,8838;0,9234
+5-850;Inzision an Muskel, Sehne und Faszie;65792;1160;56,7172;0,4247;0,6079;0,7287;0,8146;0,8777
+5-851;Durchtrennung von Muskel, Sehne und Faszie;28337;1075;26,36;0,5552;0,7078;0,805;0,8697;0,9165
+5-852;Exzision an Muskel, Sehne und Faszie;41308;1113;37,1141;0,5314;0,6944;0,789;0,856;0,904
+5-853;Rekonstruktion von Muskeln;10697;975;10,9713;0,5177;0,6764;0,7715;0,8414;0,8926
+5-854;Rekonstruktion von Sehnen;29229;987;29,614;0,6023;0,7663;0,8564;0,9086;0,9412
+5-855;Naht und andere Operationen an Sehnen und Sehnenscheide;49574;1099;45,1083;0,3951;0,5535;0,6664;0,7566;0,8294
+5-856;Rekonstruktion von Faszien;8298;991;8,3734;0,4732;0,6302;0,7349;0,8131;0,8727
+5-857;Plastische Rekonstruktion mit lokalen Lappen an Muskeln und Faszien;9319;731;12,7483;0,538;0,7375;0,837;0,8953;0,9337
+5-858;Entnahme und Transplantation von Muskel, Sehne und Faszie mit mikrovaskulärer Anastomosierung;5401;260;20,7731;0,5882;0,7845;0,8784;0,928;0,9574
+5-859;Andere Operationen an Muskeln, Sehnen, Faszien und Schleimbeuteln;42963;1128;38,0878;0,3768;0,5374;0,6513;0,7438;0,8205
+5-860;Replantation obere Extremität;642;187;3,4332;0,433;0,5981;0,7072;0,7882;0,8474
+5-861;Replantation untere Extremität;29;25;1,16;0,2069;0,3103;0,4138;0,4828;0,5862
+5-862;Amputation und Exartikulation obere Extremität;259;141;1,8369;0,2819;0,444;0,556;0,6641;0,7297
+5-863;Amputation und Exartikulation Hand;5484;792;6,9242;0,4692;0,6371;0,7451;0,822;0,8775
+5-864;Amputation und Exartikulation untere Extremität;18131;978;18,5389;0,3268;0,5256;0,6761;0,7898;0,8707
+5-865;Amputation und Exartikulation Fuß;45921;1078;42,5983;0,3313;0,5336;0,6807;0,7917;0,87
+5-866;Revision eines Amputationsgebietes;7728;815;9,4822;0,3825;0,5807;0,7178;0,813;0,879
+5-867;Operationen bei kongenitalen Anomalien des Fußes;36;29;1,2414;0,1944;0,3611;0,4444;0,5278;0,6111
+5-868;Operationen bei anderen kongenitalen Anomalien des Bewegungsapparates;7;7;1,00;0,1429;0,1429;0,2857;0,4286;0,5714
+5-869;Andere Operationen an den Bewegungsorganen;57152;1098;52,051;0,441;0,6336;0,7544;0,8403;0,8995
+5-870;Partielle (brusterhaltende) Exzision der Mamma und Destruktion von Mammagewebe;79130;728;108,6951;0,3649;0,5732;0,7261;0,8393;0,9176
+5-872;(Modifizierte radikale) Mastektomie;18549;688;26,9608;0,3376;0,5342;0,6809;0,7929;0,8746
+5-874;Erweiterte (radikale) Mastektomie mit Resektion an den Mm. pectorales majores et minores und Thoraxwandteilresektion;1292;374;3,4545;0,4056;0,5596;0,6703;0,7585;0,8212
+5-877;Subkutane Mastektomie und hautsparende Mastektomieverfahren;6363;615;10,3463;0,4892;0,6767;0,7952;0,8697;0,9161
+5-879;Andere Exzision und Resektion der Mamma;2960;679;4,3594;0,3774;0,5493;0,6743;0,7662;0,8368
+5-881;Inzision der Mamma;10154;751;13,5206;0,4997;0,6431;0,7438;0,8217;0,8819
+5-882;Operationen an der Brustwarze;4856;485;10,0124;0,4697;0,6542;0,7727;0,8495;0,9014
+5-883;Plastische Operationen zur Vergrößerung der Mamma;2437;420;5,8024;0,4124;0,5929;0,7181;0,8022;0,8629
+5-884;Mammareduktionsplastik;7457;545;13,6826;0,4295;0,6084;0,7318;0,8206;0,8863
+5-885;Plastische Rekonstruktion der Mamma mit Haut- und Muskeltransplantation;3148;367;8,5777;0,5206;0,6801;0,7837;0,851;0,9012
+5-886;Andere plastische Rekonstruktion der Mamma;8106;518;15,6486;0,4672;0,6575;0,7745;0,8552;0,9076
+5-889;Andere Operationen an der Mamma;9997;579;17,266;0,4657;0,6483;0,7663;0,8434;0,8992
+5-890;Tätowieren und Einbringen von Fremdmaterial in Haut und Unterhaut;1090;136;8,0147;0,5872;0,7982;0,8789;0,9119;0,9376
+5-891;Inzision eines Sinus pilonidalis;1317;438;3,0068;0,4237;0,5953;0,697;0,7639;0,8307
+5-892;Andere Inzision an Haut und Unterhaut;138322;1257;110,0414;0,404;0,5694;0,691;0,7842;0,8575
+5-894;Lokale Exzision von erkranktem Gewebe an Haut und Unterhaut;109640;1214;90,313;0,4007;0,5682;0,6874;0,7814;0,8524
+5-895;Radikale und ausgedehnte Exzision von erkranktem Gewebe an Haut und Unterhaut;145886;1167;125,0094;0,6623;0,7859;0,854;0,901;0,9361
+5-896;Chirurgische Wundtoilette [Wunddebridement] mit Entfernung von erkranktem Gewebe an Haut und Unterhaut;230823;1250;184,6584;0,4036;0,5901;0,7144;0,8045;0,8733
+5-897;Exzision und Rekonstruktion eines Sinus pilonidalis;26995;1040;25,9567;0,2743;0,4439;0,578;0,6878;0,7791
+5-898;Operationen am Nagelorgan;12378;1035;11,9594;0,4748;0,6423;0,7479;0,8232;0,8795
+5-899;Andere Exzision an Haut und Unterhaut;1368;513;2,6667;0,4218;0,5621;0,6594;0,7339;0,8099
+5-900;Einfache Wiederherstellung der Oberflächenkontinuität an Haut und Unterhaut;158646;1256;126,3105;0,3672;0,5565;0,6889;0,7879;0,8644
+5-901;Freie Hauttransplantation, Entnahmestelle;17993;953;18,8804;0,5389;0,7031;0,8019;0,8703;0,916
+5-902;Freie Hauttransplantation, Empfängerstelle;50608;1099;46,0491;0,5486;0,7274;0,818;0,8791;0,9223
+5-903;Lokale Lappenplastik an Haut und Unterhaut;91362;996;91,7289;0,749;0,8932;0,944;0,9676;0,9804
+5-904;Lappenplastik an Haut und Unterhaut, Entnahmestelle;2155;300;7,1833;0,5304;0,7132;0,8139;0,8784;0,9169
+5-905;Lappenplastik an Haut und Unterhaut, Empfängerstelle;5244;483;10,8571;0,5153;0,7155;0,8238;0,8888;0,93
+5-906;Kombinierte plastische Eingriffe an Haut und Unterhaut;2976;421;7,0689;0,584;0,7436;0,8313;0,881;0,915
+5-907;Revision einer Hautplastik;6326;595;10,6319;0,5466;0,7518;0,846;0,8987;0,9314
+5-908;Plastische Operation an Lippe und Mundwinkel;5252;535;9,8168;0,5906;0,7917;0,8667;0,9067;0,936
+5-909;Andere Wiederherstellung und Rekonstruktion von Haut und Unterhaut;3110;498;6,245;0,5521;0,7077;0,7977;0,8585;0,9013
+5-910;Straffungsoperation am Gesicht;404;113;3,5752;0,4975;0,6386;0,7327;0,797;0,8564
+5-911;Gewebereduktion an Haut und Unterhaut;14229;675;21,08;0,616;0,7992;0,8796;0,9253;0,9538
+5-912;Haartransplantation und Haartransposition;11;10;1,10;0,1818;0,2727;0,3636;0,4545;0,5455
+5-913;Entfernung oberflächlicher Hautschichten;23557;634;37,1562;0,8204;0,9216;0,9528;0,9695;0,9798
+5-914;Chemochirurgie der Haut;1595;110;14,50;0,8784;0,9179;0,9417;0,9561;0,9655
+5-915;Destruktion von erkranktem Gewebe an Haut und Unterhaut;11248;473;23,7801;0,7904;0,9113;0,9489;0,9647;0,9754
+5-916;Temporäre Weichteildeckung;168041;1192;140,974;0,4344;0,6096;0,7279;0,8122;0,8752
+5-917;Syndaktylie- und Polydaktyliekorrektur der Finger;791;167;4,7365;0,5853;0,7067;0,7826;0,8432;0,8862
+5-918;Syndaktylie- und Polydaktyliekorrektur der Zehen;339;123;2,7561;0,4336;0,5752;0,6667;0,7375;0,8142
+5-919;Operative Versorgung von Mehrfachtumoren an einer Lokalisation der Haut in einer Sitzung;3665;189;19,3915;0,5989;0,7896;0,8802;0,9304;0,958
+5-91a;Andere Operationen an Haut und Unterhaut;643;336;1,9137;0,3499;0,4946;0,6003;0,6858;0,7387
+5-920;Inzision an Haut und Unterhaut bei Verbrennungen und Verätzungen;458;70;6,5429;0,4847;0,7162;0,845;0,8886;0,9192
+5-921;Chirurgische Wundtoilette [Wunddebridement] und Entfernung von erkranktem Gewebe an Haut und Unterhaut bei Verbrennungen und Verätzungen;23987;755;31,7709;0,8082;0,8923;0,9318;0,9551;0,9702
+5-922;Wunddebridement an Muskel, Sehne und Faszie bei Verbrennungen und Verätzungen;515;213;2,4178;0,4058;0,5767;0,6738;0,7515;0,7942
+5-923;Temporäre Weichteildeckung bei Verbrennungen und Verätzungen;8634;243;35,5309;0,7095;0,8677;0,9313;0,9631;0,9783
+5-924;Freie Hauttransplantation und Lappenplastik an Haut und Unterhaut bei Verbrennungen und Verätzungen, Entnahmestelle;553;196;2,8214;0,4901;0,6239;0,7071;0,7758;0,8228
+5-925;Freie Hauttransplantation und Lappenplastik an Haut und Unterhaut bei Verbrennungen und Verätzungen, Empfängerstelle;4846;390;12,4256;0,7889;0,8716;0,9109;0,9373;0,9548
+5-926;Lokale Lappenplastik an Haut und Unterhaut bei Verbrennungen und Verätzungen;666;171;3,8947;0,5631;0,6877;0,7643;0,8198;0,8724
+5-927;Kombinierte plastische Eingriffe an Haut und Unterhaut bei Verbrennungen und Verätzungen;57;42;1,3571;0,1579;0,2982;0,4737;0,5614;0,6316
+5-928;Primärer Wundverschluss der Haut und Revision einer Hautplastik bei Verbrennungen und Verätzungen;616;200;3,08;0,5601;0,6656;0,7386;0,8036;0,8377
+5-929;Andere Operationen bei Verbrennungen und Verätzungen;129;50;2,58;0,4806;0,6047;0,6822;0,7597;0,8062
+5-930;Art des Transplantates;64900;688;94,3314;0,3947;0,6036;0,7477;0,8522;0,921
+5-931;Verwendung von hypoallergenem Knochenersatz- und Osteosynthesematerial;35242;546;64,5458;0,6053;0,811;0,9172;0,9596;0,9793
+5-932;Art des verwendeten Materials für Gewebeersatz und Gewebeverstärkung;211728;1071;197,6919;0,2813;0,4505;0,5843;0,695;0,7884
+5-933;Verwendung einer Kunststoff- oder biologischen Membran zur Prophylaxe von Adhäsionen;4423;255;17,3451;0,7897;0,8809;0,9258;0,9498;0,9659
+5-934;Verwendung von MRT-fähigem Material;11358;506;22,4466;0,5577;0,7399;0,8399;0,901;0,9397
+5-935;Verwendung von beschichtetem Osteosynthesematerial;1118;139;8,0432;0,7191;0,8301;0,8792;0,9106;0,9356
+5-936;Verwendung von Arzneimitteln für neuartige Therapien;109;20;5,45;0,5596;0,7523;0,844;0,8899;0,9083
+5-937;Verwendung von thermomechanischem Osteosynthesematerial;205;34;6,0294;0,4683;0,7512;0,8341;0,8927;0,9171
+5-981;Versorgung bei Mehrfachverletzung;1616;310;5,2129;0,487;0,6473;0,7556;0,8255;0,88
+5-982;Versorgung bei Polytrauma;1527;255;5,9882;0,5599;0,7099;0,795;0,854;0,8946
+5-983;Reoperation;167208;1140;146,6737;0,5804;0,7494;0,8462;0,9065;0,9447
+5-984;Mikrochirurgische Technik;386967;959;403,5109;0,5539;0,7383;0,8465;0,9137;0,9539
+5-985;Lasertechnik;44686;624;71,6122;0,5392;0,7305;0,8407;0,9126;0,9541
+5-986;Minimalinvasive Technik;75671;868;87,1786;0,5905;0,7684;0,8663;0,9238;0,9598
+5-987;Anwendung eines OP-Roboters;9851;94;104,7979;0,3516;0,5546;0,6997;0,8287;0,9164
+5-988;Anwendung eines Navigationssystems;39810;497;80,1006;0,4526;0,6476;0,7707;0,854;0,9117
+5-989;Fluoreszenzgestützte Therapieverfahren;8084;218;37,0826;0,5743;0,7522;0,8564;0,9177;0,9537
+5-98a;Hybridtherapie;4156;208;19,9808;0,4949;0,6973;0,8104;0,8857;0,9324
+5-98b;Anwendung eines flexiblen Ureterorenoskops;14515;265;54,7736;0,3453;0,5344;0,6799;0,7837;0,8681
+5-98c;Anwendung eines Klammernahtgerätes;100711;829;121,4849;0,4137;0,6059;0,7332;0,8288;0,8972
+5-98d;Verwendung von patientenindividuell hergestelltem Instrumentarium;1013;89;11,382;0,4235;0,619;0,7631;0,8569;0,9171
+5-98e;Intraoperative Blutflussmessung in Gefäßen;9408;150;62,72;0,7231;0,8929;0,9523;0,9792;0,9887
+5-995;Vorzeitiger Abbruch einer Operation (Eingriff nicht komplett durchgeführt);22483;1079;20,8369;0,5069;0,6914;0,8031;0,8732;0,9207

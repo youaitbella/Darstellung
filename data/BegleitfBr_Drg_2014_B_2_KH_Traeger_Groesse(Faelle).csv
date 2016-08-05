@@ -1,0 +1,22 @@
+﻿TraegerName;Fallstufe;Anzahl KH;Anteil KH;Traeger_Nr;TraegerSort;FallstufeSort
+Öffentliche Krankenhäuser;bis 4.999 Fälle;102;0,2077;O;1;f04999
+Öffentliche Krankenhäuser;5.000 bis 9.999 Fälle;110;0,224;O;1;f09999
+Öffentliche Krankenhäuser;10.000 bis 14.999 Fälle;68;0,1385;O;1;f14999
+Öffentliche Krankenhäuser;15.000 bis 19.999 Fälle;56;0,1141;O;1;f19999
+Öffentliche Krankenhäuser;20.000 bis 29.999 Fälle;76;0,1548;O;1;f29999
+Öffentliche Krankenhäuser;30.000 bis 39.999 Fälle;32;0,0652;O;1;f39999
+Öffentliche Krankenhäuser;über 40.000 Fälle;47;0,0957;O;1;f40000+
+Freigemeinnützige Krankenhäuser;bis 4.999 Fälle;173;0,2786;F;2;f04999
+Freigemeinnützige Krankenhäuser;5.000 bis 9.999 Fälle;157;0,2528;F;2;f09999
+Freigemeinnützige Krankenhäuser;10.000 bis 14.999 Fälle;127;0,2045;F;2;f14999
+Freigemeinnützige Krankenhäuser;15.000 bis 19.999 Fälle;75;0,1208;F;2;f19999
+Freigemeinnützige Krankenhäuser;20.000 bis 29.999 Fälle;72;0,1159;F;2;f29999
+Freigemeinnützige Krankenhäuser;30.000 bis 39.999 Fälle;12;0,0193;F;2;f39999
+Freigemeinnützige Krankenhäuser;über 40.000 Fälle;5;0,0081;F;2;f40000+
+Private Krankenhäuser;bis 4.999 Fälle;247;0,5785;P;3;f04999
+Private Krankenhäuser;5.000 bis 9.999 Fälle;78;0,1827;P;3;f09999
+Private Krankenhäuser;10.000 bis 14.999 Fälle;37;0,0867;P;3;f14999
+Private Krankenhäuser;15.000 bis 19.999 Fälle;26;0,0609;P;3;f19999
+Private Krankenhäuser;20.000 bis 29.999 Fälle;24;0,0562;P;3;f29999
+Private Krankenhäuser;30.000 bis 39.999 Fälle;8;0,0187;P;3;f39999
+Private Krankenhäuser;über 40.000 Fälle;7;0,0164;P;3;f40000+

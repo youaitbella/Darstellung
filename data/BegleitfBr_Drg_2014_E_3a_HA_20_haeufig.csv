@@ -1,0 +1,21 @@
+﻿DRG;name;Relativgewicht;AnzahlHA;AntAnGesFallzahl
+P67D;Neugeborener Einling, Aufnahmegewicht > 2499 g ohne OR-Prozedur, ohne Beatmung > 95 Stunden, ohne schweres Problem, ohne anderes Problem oder ein Belegungstag;0,247;508162;0,0286
+G67C;Ösophagitis, Gastroenteritis, gastrointestinale Blutung, Ulkuserkrankung und verschiedene Erkrankungen der Verdauungsorgane ohne komplexe Prozedur, ohne komplexe Diagnose, ohne äußerst schwere CC;0,444;495124;0,0279
+I68D;Nicht operativ behandelte Erkrankungen und Verl. im WS-Bereich, mehr als ein Belegungstag, bei and. Femurfraktur, Alt. < 65 J., mit schw. CC, oh. äuß. schw. CC, auß. b. Para- / Tetraplegie, auß. b. Diszitis od. infekt. Spondylopathie, oh. kompl. Diagn.;0,616;332297;0,0187
+F62B;Herzinsuffizienz und Schock ohne äußerst schwere CC oder ohne Dialyse, ohne komplizierende Diagnose;0,885;329150;0,0186
+F71B;Nicht schwere kardiale Arrhythmie und Erregungsleitungsstörungen ohne äußerst schwere CC, ohne kathetergestützte elektrophysiologische Untersuchung des Herzens;0,503;271611;0,0153
+G67B;Ösophagitis, Gastroenteritis, gastrointestinale Blutung, Ulkuserkrankung und verschiedene Erkrankungen der Verdauungsorgane mit komplexer Diagnose oder äußerst schweren CC oder Alter < 3 Jahre oder > 74 Jahre oder schweren CC bei bestimmter Diagnose;0,591;266868;0,015
+O60D;Vaginale Entbindung ohne komplizierende Diagnose;0,537;252336;0,0142
+F67D;Hypertonie ohne komplizierende Diagnose, ohne äußerst schwere oder schwere CC, Alter > 15 Jahre;0,475;226394;0,0128
+B80Z;Andere Kopfverletzungen;0,328;219665;0,0124
+F49G;Invasive kardiologische Diagnostik außer bei akutem Myokardinfarkt, ohne äußerst schwere CC, Alter > 14 Jahre, ohne kardiales Mapping, ohne schwere CC, ohne komplexe Diagnose, ohne bestimmten Eingriff;0,645;214256;0,0121
+E77I;Infektionen und Entzündungen der Atmungsorgane ohne komplexe Diagnose, ohne äußerst schwere CC, Alter > 0 Jahre, außer bei Para- / Tetraplegie, ohne Komplexbehandlung bei multiresistenten Erregern;0,763;209050;0,0118
+F73Z;Synkope und Kollaps;0,525;188398;0,0106
+G24B;Eingriffe bei Hernien, ohne plastische Rekonstruktion der Bauchwand;0,775;172915;0,0097
+I47B;Revision oder Ersatz des Hüftgelenkes ohne komplizierende Diagnose, ohne Arthrodese, ohne äußerst schwere CC, Alter > 15 Jahre, ohne komplizierenden Eingriff;2,230;165281;0,0093
+L63F;Infektionen der Harnorgane ohne äußerst schwere CC, ohne Komplexbehandlung bei multiresistenten Erregern, Alter > 5 Jahre;0,548;154865;0,0087
+H08B;Laparoskopische Cholezystektomie ohne sehr komplexe Diagnose, ohne komplizierende Diagnose;0,891;149829;0,0084
+J65Z;Verletzung der Haut, Unterhaut und Mamma;0,393;149358;0,0084
+O65C;Andere vorgeburtliche stationäre Aufnahme ohne äußerst schwere oder schwere CC, ohne komplexe Diagnose, ohne best. Placenta praevia oder ohne schwere CC, Schwangerschaftsdauer bis 25 oder mehr als 33 vollendete Wochen;0,376;141227;0,008
+E71B;Neubildungen der Atmungsorgane, ein Belegungstag oder ohne äußerst schwere CC, ohne starre Bronchoskopie oder ohne komplexe Biopsie der Lunge;0,631;138816;0,0078
+G72B;Andere leichte bis moderate Erkrankungen der Verdauungsorgane, Alter > 2 Jahre oder Abdominalschmerz oder mesenteriale Lymphadenitis, Alter > 2 Jahre und Alter < 56 Jahre oder ohne CC;0,352;136973;0,0077
