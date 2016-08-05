@@ -4,4 +4,4 @@ files into it. If everything went right, you should see a new year-menu on
 http://browser.inek.org.
 
 Usage of the tool:
-BrowserFiles.exe <Path to folder including the transformable files> <Data-Year>
+BrowserFiles.exe &#60;Path to folder including the transformable files&#62; &#60;Data-Year&#62;
