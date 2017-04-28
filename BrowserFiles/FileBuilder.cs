@@ -1,5 +1,6 @@
 ﻿using System;
 using System.IO;
+using System.Linq;
 using System.Linq.Expressions;
 using System.Net;
 using System.Runtime.InteropServices;
@@ -299,13 +300,27 @@ namespace BrowserFiles {
             using (var reader = CreateReaderWithoutHeadline(c111MdcGender)) {
                 string line;
                 while ((line = reader.ReadLine()) != null) {
-                    c111Content += "1;" + line.Replace(",", ".") + Environment.NewLine;
+                    string[] lineSplit = line.Split(';');
+                    for (int i = 0; i < lineSplit.Length; i++) {
+                        if (i == 1)
+                            continue;
+                        lineSplit[i] = lineSplit[i].Replace(",", ".");
+                    }
+                    line = string.Join(";", lineSplit);
+                    c111Content += "1;" + line + Environment.NewLine;
                 }
             }
             using (var reader = CreateReaderWithoutHeadline(c211MdcGender)) {
                 string line;
                 while ((line = reader.ReadLine()) != null) {
-                    c211Content += "2;" + line.Replace(",", ".") + Environment.NewLine;
+                    string[] lineSplit = line.Split(';');
+                    for (int i = 0; i < lineSplit.Length; i++) {
+                        if (i == 1)
+                            continue;
+                        lineSplit[i] = lineSplit[i].Replace(",", ".");
+                    }
+                    line = string.Join(";", lineSplit);
+                    c211Content += "2;" + line + Environment.NewLine;
                 }
             }
             using (var writer = CreateWriter(outFileName)) {
@@ -358,13 +373,27 @@ namespace BrowserFiles {
             using (var reader = CreateReaderWithoutHeadline(c113FileName)) {
                 string line;
                 while ((line = reader.ReadLine()) != null) {
-                    c113Content += "1;" + line.Replace("NULL", "0").Replace(",", ".") + Environment.NewLine;
+                    var lineSplit = line.Split(';');
+                    for (int i = 0; i < lineSplit.Length; i++) {
+                        if (i == 1)
+                            continue;
+                        lineSplit[i] = lineSplit[i].Replace("NULL", "0").Replace(",", ".");
+                    }
+                    line = string.Join(";", lineSplit);
+                    c113Content += "1;" + line+ Environment.NewLine;
                 }
             }
             using (var reader = CreateReaderWithoutHeadline(c213FileName)) {
                 string line;
                 while ((line = reader.ReadLine()) != null) {
-                    c213Content += "2;" + line.Replace("NULL", "0").Replace(",", ".") + Environment.NewLine;
+                    var lineSplit = line.Split(';');
+                    for (int i = 0; i < lineSplit.Length; i++) {
+                        if (i == 1)
+                            continue;
+                        lineSplit[i] = lineSplit[i].Replace("NULL", "0").Replace(",", ".");
+                    }
+                    line = string.Join(";", lineSplit);
+                    c213Content += "2;" + line + Environment.NewLine;
                 }
             }
             using (var writer = CreateWriter(outFileName)) {
@@ -386,25 +415,53 @@ namespace BrowserFiles {
             using (var reader = CreateReaderWithoutHeadline(c122HAAFileName)) {
                 string line;
                 while ((line = reader.ReadLine()) != null) {
-                    content += "1;A;" + line.Replace("NULL", "0").Replace(",", ".") + Environment.NewLine;
+                    var lineSplit = line.Split(';');
+                    for (int i = 0; i < lineSplit.Length; i++) {
+                        if (i == 0)
+                            continue;
+                        lineSplit[i] = lineSplit[i].Replace("NULL", "0").Replace(",", ".");
+                    }
+                    line = string.Join(";", lineSplit);
+                    content += "1;A;" + line + Environment.NewLine;
                 }
             }
             using (var reader = CreateReaderWithoutHeadline(c122HAEFileName)) {
                 string line;
                 while ((line = reader.ReadLine()) != null) {
-                    content += "1;E;" + line.Replace("NULL", "0").Replace(",", ".") + Environment.NewLine;
+                    var lineSplit = line.Split(';');
+                    for (int i = 0; i < lineSplit.Length; i++) {
+                        if (i == 0)
+                            continue;
+                        lineSplit[i] = lineSplit[i].Replace("NULL", "0").Replace(",", ".");
+                    }
+                    line = string.Join(";", lineSplit);
+                    content += "1;E;" + line + Environment.NewLine;
                 }
             }
             using (var reader = CreateReaderWithoutHeadline(c222BAAFileName)) {
                 string line;
                 while ((line = reader.ReadLine()) != null) {
-                    content += "2;A;" + line.Replace("NULL", "0").Replace(",", ".") + Environment.NewLine;
+                    var lineSplit = line.Split(';');
+                    for (int i = 0; i < lineSplit.Length; i++) {
+                        if (i == 0)
+                            continue;
+                        lineSplit[i] = lineSplit[i].Replace("NULL", "0").Replace(",", ".");
+                    }
+                    line = string.Join(";", lineSplit);
+                    content += "2;A;" + line + Environment.NewLine;
                 }
             }
             using (var reader = CreateReaderWithoutHeadline(c222BAEFileName)) {
                 string line;
                 while ((line = reader.ReadLine()) != null) {
-                    content += "2;E;" + line.Replace("NULL", "0").Replace(",", ".") + Environment.NewLine;
+                    var lineSplit = line.Split(';');
+                    for (int i = 0; i < lineSplit.Length; i++) {
+                        if (i == 0)
+                            continue;
+                        lineSplit[i] = lineSplit[i].Replace("NULL", "0").Replace(",", ".");
+                    }
+                    line = string.Join(";", lineSplit);
+                    content += "2;E;" + line + Environment.NewLine;
                 }
             }
             using (var writer = CreateWriter(outFileName)) {
@@ -423,13 +480,27 @@ namespace BrowserFiles {
             using (var reader = CreateReaderWithoutHeadline(c123HAFileName)) {
                 string line;
                 while ((line = reader.ReadLine()) != null) {
-                    content += "1;" + line.Replace("NULL", "0").Replace(",", ".") + Environment.NewLine;
+                    var lineSplit = line.Split(';');
+                    for (int i = 0; i < lineSplit.Length; i++) {
+                        if (i == 1)
+                            continue;
+                        lineSplit[i] = lineSplit[i].Replace("NULL", "0").Replace(",", ".");
+                    }
+                    line = string.Join(";", lineSplit);
+                    content += "1;" + line + Environment.NewLine;
                 }
             }
             using (var reader = CreateReaderWithoutHeadline(c223BAFileName)) {
                 string line;
                 while ((line = reader.ReadLine()) != null) {
-                    content += "2;" + line.Replace("NULL", "0").Replace(",", ".") + Environment.NewLine;
+                    var lineSplit = line.Split(';');
+                    for (int i = 0; i < lineSplit.Length; i++) {
+                        if (i == 1)
+                            continue;
+                        lineSplit[i] = lineSplit[i].Replace("NULL", "0").Replace(",", ".");
+                    }
+                    line = string.Join(";", lineSplit);
+                    content += "2;" + line + Environment.NewLine;
                 }
             }
             using (var writer = CreateWriter(outFileName)) {
@@ -451,31 +522,66 @@ namespace BrowserFiles {
             using (var reader = CreateReaderWithoutHeadline(d1FileName)) {
                 string line;
                 while ((line = reader.ReadLine()) != null) {
-                    content += "1;" + line.Replace("NULL", "0").Replace(",", ".") + Environment.NewLine;
+                    var lineSplit = line.Split(';');
+                    for (int i = 0; i < lineSplit.Length; i++) {
+                        if (i == 1)
+                            continue;
+                        lineSplit[i] = lineSplit[i].Replace("NULL", "0").Replace(",", ".");
+                    }
+                    line = string.Join(";", lineSplit);
+                    content += "1;" + line + Environment.NewLine;
                 }
             }
             using (var reader = CreateReaderWithoutHeadline(d2FileName)) {
                 string line;
                 while ((line = reader.ReadLine()) != null) {
-                    content += "2;" + line.Replace("NULL", "0").Replace(",", ".") + Environment.NewLine;
+                    var lineSplit = line.Split(';');
+                    for (int i = 0; i < lineSplit.Length; i++) {
+                        if (i == 1)
+                            continue;
+                        lineSplit[i] = lineSplit[i].Replace("NULL", "0").Replace(",", ".");
+                    }
+                    line = string.Join(";", lineSplit);
+                    content += "2;" + line + Environment.NewLine;
                 }
             }
             using (var reader = CreateReaderWithoutHeadline(d3FileName)) {
                 string line;
                 while ((line = reader.ReadLine()) != null) {
-                    content += "3;" + line.Replace("NULL", "0").Replace(",", ".") + Environment.NewLine;
+                    var lineSplit = line.Split(';');
+                    for (int i = 0; i < lineSplit.Length; i++) {
+                        if (i == 1)
+                            continue;
+                        lineSplit[i] = lineSplit[i].Replace("NULL", "0").Replace(",", ".");
+                    }
+                    line = string.Join(";", lineSplit);
+                    content += "3;" + line + Environment.NewLine;
                 }
             }
             using (var reader = CreateReaderWithoutHeadline(d4FileName)) {
                 string line;
                 while ((line = reader.ReadLine()) != null) {
-                    content += "4;" + line.Replace("NULL", "0").Replace(",", ".") + Environment.NewLine;
+                    var lineSplit = line.Split(';');
+                    for (int i = 0; i < lineSplit.Length; i++) {
+                        if (i == 1)
+                            continue;
+                        lineSplit[i] = lineSplit[i].Replace("NULL", "0").Replace(",", ".");
+                    }
+                    line = string.Join(";", lineSplit);
+                    content += "4;" + line+ Environment.NewLine;
                 }
             }
             using (var reader = CreateReaderWithoutHeadline(d5FileName)) {
                 string line;
                 while ((line = reader.ReadLine()) != null) {
-                    content += "5;" + line.Replace("NULL", "0").Replace(",", ".") + Environment.NewLine;
+                    var lineSplit = line.Split(';');
+                    for (int i = 0; i < lineSplit.Length; i++) {
+                        if (i == 1)
+                            continue;
+                        lineSplit[i] = lineSplit[i].Replace("NULL", "0").Replace(",", ".");
+                    }
+                    line = string.Join(";", lineSplit);
+                    content += "5;" + line + Environment.NewLine;
                 }
             }
             using (var writer = CreateWriter(outFileName)) {
@@ -489,6 +595,7 @@ namespace BrowserFiles {
             var outFileName = "C_115_sum.csv";
             var headline = "Anzahl HA;Summe00J;Summe0105J;Summe0510J;Summe1015J;Summe1520J;Summe2025J;Summe2530J;Summe3035J;Summe3540J;Summe4045J;Summe4550J;Summe5055J;Summe5560J;Summe6065J;Summe6570J;Summe7075J;Summe7580J;Summe8085J;Summe8590J;Summe90ffJ;Ant00Jges;Ant0105Jges;Ant0510Jges;Ant1015Jges;Ant1520Jges;Ant2025Jges;Ant2530Jges;Ant3035Jges;Ant3540Jges;Ant4045Jges;Ant4550Jges;Ant5055Jges;Ant5560Jges;Ant6065Jges;Ant6570Jges;Ant7075Jges;Ant7580Jges;Ant8085Jges;Ant8590Jges;Ant90ffJges";
             var c115sum = "C_115_Zusf.csv";
+
             var content = "";
             using (var reader = CreateReaderWithoutHeadline(c115sum)) {
                 string line;
@@ -543,7 +650,14 @@ namespace BrowserFiles {
                 while ((line = reader.ReadLine()) != null) {
                     line = line.Replace(";0,00;", ";0;");
                     line = line.Replace(";0.00;", ";0;");
-                    content += "1;1;" + line.Replace("NULL", "0").Replace(",", ".") + Environment.NewLine;
+                    var lineSplit = line.Split(';');
+                    for (int i = 0; i < lineSplit.Length; i++) {
+                        if (i == 1)
+                            continue;
+                        lineSplit[i] = lineSplit[i].Replace("NULL", "0").Replace(",", ".");
+                    }
+                    line = string.Join(";", lineSplit);
+                    content += "1;1;" + line + Environment.NewLine;
                 }
             }
             using (var reader = CreateReaderWithoutHeadline(c114b)) {
@@ -551,7 +665,14 @@ namespace BrowserFiles {
                 while ((line = reader.ReadLine()) != null) {
                     line = line.Replace(";0,00;", ";0;");
                     line = line.Replace(";0.00;", ";0;");
-                    content += "2;1;" + line.Replace("NULL", "0").Replace(",", ".") + Environment.NewLine;
+                    var lineSplit = line.Split(';');
+                    for (int i = 0; i < lineSplit.Length; i++) {
+                        if (i == 1)
+                            continue;
+                        lineSplit[i] = lineSplit[i].Replace("NULL", "0").Replace(",", ".");
+                    }
+                    line = string.Join(";", lineSplit);
+                    content += "2;1;" + line + Environment.NewLine;
                 }
             }
             using (var reader = CreateReaderWithoutHeadline(c114c)) {
@@ -559,7 +680,14 @@ namespace BrowserFiles {
                 while ((line = reader.ReadLine()) != null) {
                     line = line.Replace(";0,00;", ";0;");
                     line = line.Replace(";0.00;", ";0;");
-                    content += "3;1;" + line.Replace("NULL", "0").Replace(",", ".") + Environment.NewLine;
+                    var lineSplit = line.Split(';');
+                    for (int i = 0; i < lineSplit.Length; i++) {
+                        if (i == 1)
+                            continue;
+                        lineSplit[i] = lineSplit[i].Replace("NULL", "0").Replace(",", ".");
+                    }
+                    line = string.Join(";", lineSplit);
+                    content += "3;1;" + line + Environment.NewLine;
                 }
             }
             using (var reader = CreateReaderWithoutHeadline(c115a)) {
@@ -569,7 +697,7 @@ namespace BrowserFiles {
                     line = line.Insert(index, ";0;0");
                     line = line.Replace(";0,00;", ";0;");
                     line = line.Replace(";0.00;", ";0;");
-                    content += "1;2;" + line.Replace("NULL", "0").Replace(",", ".") + Environment.NewLine;
+                    content += "1;2;" + line + Environment.NewLine;
                 }
             }
             using (var reader = CreateReaderWithoutHeadline(c115b)) {
@@ -579,7 +707,14 @@ namespace BrowserFiles {
                     line = line.Insert(index, ";0;0");
                     line = line.Replace(";0,00;", ";0;");
                     line = line.Replace(";0.00;", ";0;");
-                    content += "2;2;" + line.Replace("NULL", "0").Replace(",", ".") + Environment.NewLine;
+                    var lineSplit = line.Split(';');
+                    for (int i = 0; i < lineSplit.Length; i++) {
+                        if (i == 1)
+                            continue;
+                        lineSplit[i] = lineSplit[i].Replace("NULL", "0").Replace(",", ".");
+                    }
+                    line = string.Join(";", lineSplit);
+                    content += "2;2;" + line + Environment.NewLine;
                 }
             }
             using (var reader = CreateReaderWithoutHeadline(c115c)) {
@@ -589,7 +724,14 @@ namespace BrowserFiles {
                     line = line.Insert(index, ";0;0");
                     line = line.Replace(";0,00;", ";0;");
                     line = line.Replace(";0.00;", ";0;");
-                    content += "3;2;" + line.Replace("NULL", "0").Replace(",", ".") + Environment.NewLine;
+                    var lineSplit = line.Split(';');
+                    for (int i = 0; i < lineSplit.Length; i++) {
+                        if (i == 1)
+                            continue;
+                        lineSplit[i] = lineSplit[i].Replace("NULL", "0").Replace(",", ".");
+                    }
+                    line = string.Join(";", lineSplit);
+                    content += "3;2;" + line + Environment.NewLine;
                 }
             }
             using (var reader = CreateReaderWithoutHeadline(c214a)) {
@@ -597,7 +739,14 @@ namespace BrowserFiles {
                 while ((line = reader.ReadLine()) != null) {
                     line = line.Replace(";0,00;", ";0;");
                     line = line.Replace(";0.00;", ";0;");
-                    content += "1;3;" + line.Replace("NULL", "0").Replace(",", ".") + Environment.NewLine;
+                    var lineSplit = line.Split(';');
+                    for (int i = 0; i < lineSplit.Length; i++) {
+                        if (i == 1)
+                            continue;
+                        lineSplit[i] = lineSplit[i].Replace("NULL", "0").Replace(",", ".");
+                    }
+                    line = string.Join(";", lineSplit);
+                    content += "1;3;" + line + Environment.NewLine;
                 }
             }
             using (var reader = CreateReaderWithoutHeadline(c214b)) {
@@ -605,7 +754,14 @@ namespace BrowserFiles {
                 while ((line = reader.ReadLine()) != null) {
                     line = line.Replace(";0,00;", ";0;");
                     line = line.Replace(";0.00;", ";0;");
-                    content += "2;3;" + line.Replace("NULL", "0").Replace(",", ".") + Environment.NewLine;
+                    var lineSplit = line.Split(';');
+                    for (int i = 0; i < lineSplit.Length; i++) {
+                        if (i == 1)
+                            continue;
+                        lineSplit[i] = lineSplit[i].Replace("NULL", "0").Replace(",", ".");
+                    }
+                    line = string.Join(";", lineSplit);
+                    content += "2;3;" + line + Environment.NewLine;
                 }
             }
             using (var reader = CreateReaderWithoutHeadline(c214c)) {
@@ -613,7 +769,14 @@ namespace BrowserFiles {
                 while ((line = reader.ReadLine()) != null) {
                     line = line.Replace("0,00", "0");
                     line = line.Replace("0.00", "0");
-                    content += "3;3;" + line.Replace("NULL", "0").Replace(",", ".") + Environment.NewLine;
+                    var lineSplit = line.Split(';');
+                    for (int i = 0; i < lineSplit.Length; i++) {
+                        if (i == 1)
+                            continue;
+                        lineSplit[i] = lineSplit[i].Replace("NULL", "0").Replace(",", ".");
+                    }
+                    line = string.Join(";", lineSplit);
+                    content += "3;3;" + line + Environment.NewLine;
                 }
             }
             using (var reader = CreateReaderWithoutHeadline(c215a)) {
@@ -623,7 +786,14 @@ namespace BrowserFiles {
                     line = line.Insert(index, ";0;0");
                     line = line.Replace(";0,00;", ";0;");
                     line = line.Replace(";0.00;", ";0;");
-                    content += "1;4;" + line.Replace("NULL", "0").Replace(",", ".") + Environment.NewLine;
+                    var lineSplit = line.Split(';');
+                    for (int i = 0; i < lineSplit.Length; i++) {
+                        if (i == 1)
+                            continue;
+                        lineSplit[i] = lineSplit[i].Replace("NULL", "0").Replace(",", ".");
+                    }
+                    line = string.Join(";", lineSplit);
+                    content += "1;4;" + line + Environment.NewLine;
                 }
             }
             using (var reader = CreateReaderWithoutHeadline(c215b)) {
@@ -633,7 +803,14 @@ namespace BrowserFiles {
                     line = line.Insert(index, ";0;0");
                     line = line.Replace(";0,00;", ";0;");
                     line = line.Replace(";0.00;", ";0;");
-                    content += "2;4;" + line.Replace("NULL", "0").Replace(",", ".") + Environment.NewLine;
+                    var lineSplit = line.Split(';');
+                    for (int i = 0; i < lineSplit.Length; i++) {
+                        if (i == 1)
+                            continue;
+                        lineSplit[i] = lineSplit[i].Replace("NULL", "0").Replace(",", ".");
+                    }
+                    line = string.Join(";", lineSplit);
+                    content += "2;4;" + line + Environment.NewLine;
                 }
             }
             using (var reader = CreateReaderWithoutHeadline(c215c)) {
@@ -643,7 +820,14 @@ namespace BrowserFiles {
                     line = line.Insert(index, ";0;0");
                     line = line.Replace(";0,00;", ";0;");
                     line = line.Replace(";0.00;", ";0;");
-                    content += "3;4;" + line.Replace("NULL", "0").Replace(",", ".") + Environment.NewLine;
+                    var lineSplit = line.Split(';');
+                    for (int i = 0; i < lineSplit.Length; i++) {
+                        if (i == 1)
+                            continue;
+                        lineSplit[i] = lineSplit[i].Replace("NULL", "0").Replace(",", ".");
+                    }
+                    line = string.Join(";", lineSplit);
+                    content += "3;4;" + line + Environment.NewLine;
                 }
             }
             using (var writer = CreateWriter(outFileName)) {
@@ -775,37 +959,79 @@ namespace BrowserFiles {
             using (var reader = CreateReaderWithoutHeadline(e1a)) {
                 string line;
                 while ((line = reader.ReadLine()) != null) {
-                    content += "1;" + line.Replace("NULL", "0").Replace(",", ".") + Environment.NewLine;
+                    var lineSplit = line.Split(';');
+                    for (int i = 0; i < lineSplit.Length; i++) {
+                        if (i == 1)
+                            continue;
+                        lineSplit[i] = lineSplit[i].Replace("NULL", "0").Replace(",", ".");
+                    }
+                    line = string.Join(";", lineSplit);
+                    content += "1;" + line + Environment.NewLine;
                 }
             }
             using (var reader = CreateReaderWithoutHeadline(e1b)) {
                 string line;
                 while ((line = reader.ReadLine()) != null) {
-                    content += "2;" + line.Replace("NULL", "0").Replace(",", ".") + Environment.NewLine;
+                    var lineSplit = line.Split(';');
+                    for (int i = 0; i < lineSplit.Length; i++) {
+                        if (i == 1)
+                            continue;
+                        lineSplit[i] = lineSplit[i].Replace("NULL", "0").Replace(",", ".");
+                    }
+                    line = string.Join(";", lineSplit);
+                    content += "2;" + line + Environment.NewLine;
                 }
             }
             using (var reader = CreateReaderWithoutHeadline(e2a)) {
                 string line;
                 while ((line = reader.ReadLine()) != null) {
-                    content += "3;" + line.Replace("NULL", "0").Replace(",", ".") + Environment.NewLine;
+                    var lineSplit = line.Split(';');
+                    for (int i = 0; i < lineSplit.Length; i++) {
+                        if (i == 1)
+                            continue;
+                        lineSplit[i] = lineSplit[i].Replace("NULL", "0").Replace(",", ".");
+                    }
+                    line = string.Join(";", lineSplit);
+                    content += "3;" + line + Environment.NewLine;
                 }
             }
             using (var reader = CreateReaderWithoutHeadline(e2b)) {
                 string line;
                 while ((line = reader.ReadLine()) != null) {
-                    content += "4;" + line.Replace("NULL", "0").Replace(",", ".") + Environment.NewLine;
+                    var lineSplit = line.Split(';');
+                    for (int i = 0; i < lineSplit.Length; i++) {
+                        if (i == 1)
+                            continue;
+                        lineSplit[i] = lineSplit[i].Replace("NULL", "0").Replace(",", ".");
+                    }
+                    line = string.Join(";", lineSplit);
+                    content += "4;" + line+ Environment.NewLine;
                 }
             }
             using (var reader = CreateReaderWithoutHeadline(e3a)) {
                 string line;
                 while ((line = reader.ReadLine()) != null) {
-                    content += "5;" + line.Replace("NULL", "0").Replace(",", ".") + Environment.NewLine;
+                    var lineSplit = line.Split(';');
+                    for (int i = 0; i < lineSplit.Length; i++) {
+                        if (i == 1)
+                            continue;
+                        lineSplit[i] = lineSplit[i].Replace("NULL", "0").Replace(",", ".");
+                    }
+                    line = string.Join(";", lineSplit);
+                    content += "5;" + line + Environment.NewLine;
                 }
             }
             using (var reader = CreateReaderWithoutHeadline(e3b)) {
                 string line;
                 while ((line = reader.ReadLine()) != null) {
-                    content += "6;" + line.Replace("NULL", "0").Replace(",", ".") + Environment.NewLine;
+                    var lineSplit = line.Split(';');
+                    for (int i = 0; i < lineSplit.Length; i++) {
+                        if (i == 1)
+                            continue;
+                        lineSplit[i] = lineSplit[i].Replace("NULL", "0").Replace(",", ".");
+                    }
+                    line = string.Join(";", lineSplit);
+                    content += "6;" + line + Environment.NewLine;
                 }
             }
             using (var writer = CreateWriter(outFileName)) {
@@ -967,13 +1193,13 @@ namespace BrowserFiles {
             using (var reader = CreateReaderWithoutHeadline(percHa)) {
                 string line;
                 while ((line = reader.ReadLine()) != null) {
-                    content += "1;" + line.Replace("NULL", "0") + Environment.NewLine;
+                    content += "1;" + line.Replace("NULL", "0").Replace("0,", "0,0") + Environment.NewLine;
                 }
             }
             using (var reader = CreateReaderWithoutHeadline(percBa)) {
                 string line;
                 while ((line = reader.ReadLine()) != null) {
-                    content += "2;" + line.Replace("NULL", "0").Replace(",", ".") + Environment.NewLine;
+                    content += "2;" + line.Replace("NULL", "0").Replace("0,", "0,0") + Environment.NewLine;
                 }
             }
             using (var writer = CreateWriter(outFileName)) {

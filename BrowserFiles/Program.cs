@@ -85,6 +85,7 @@ namespace BrowserFiles {
             } catch (Exception ex) {
                 Console.WriteLine("Fehler beim Erstellen der ZIP-Datei... bitte manuell erstellen oder Porgramm neu starten. " + Environment.NewLine + ex.Message);
             }
+            Console.WriteLine("Es wurden alle Dateien erstellt. Taste zum Fortfahren drücken.");
             Console.Read();
         }
     }
