@@ -763,8 +763,8 @@ namespace BrowserFiles {
             using (var reader = CreateReaderWithoutHeadline(c214c)) {
                 string line;
                 while ((line = reader.ReadLine()) != null) {
-                    line = line.Replace("0,00", "0");
-                    line = line.Replace("0.00", "0");
+                    line = line.Replace(";0,00;", ";0;");
+                    line = line.Replace(";0.00;", ";0;");
                     var lineSplit = line.Split(';');
                     for (int i = 0; i < lineSplit.Length; i++) {
                         if (i == 1)

@@ -5,50 +5,22 @@ using Ionic.Zip;
 namespace BrowserFiles {
     internal class Program {
 
-        public const string BROWSER_EXPORT_DATA_DIR_TEST = @"\\vFileserver01\company$\EDV\Projekte\InEK-Browsers\BegleitforschungTest";
+        //public const string BROWSER_EXPORT_DATA_DIR_TEST = @"\\vFileserver01\company$\EDV\Projekte\InEK-Browsers\BegleitforschungTest";
         public const string BROWSER_EXPORT_DATA_DIR_LIVE = @"\\vFileserver01\company$\EDV\Projekte\InEK-Browsers\Begleitforschung";
 
-        public static string BROWSER_EXPORT_DATA_DIR = BROWSER_EXPORT_DATA_DIR_TEST;
+        public static string BROWSER_EXPORT_DATA_DIR = BROWSER_EXPORT_DATA_DIR_LIVE;
+
+        public const string SOURCE = @"D:\tmp\tmp\BegleitfBr_Drg_2017";
+        public const int DATAYEAR = 2017;
 
         public static string FilePrefix { get; set; }
         public static string FileDir { get; set; }
         public static int DataYear { get; set; }
 
         private static void Main(string[] args) {
-            if (args.Length < 2) {
-                Console.WriteLine("Es werden mindestens 2 Startparameter benötigt! (<Dateien-Pfad> <Datenjahr> [<Livemodus (true/false)>])");
-                Console.Read();
-                return;
-            }
-            FileDir = args[0];
-            try {
-                DataYear = int.Parse(args[1]);
-            } catch (Exception) {
-                Console.WriteLine("Fehler: Datenjahr ist keine gültige Zahl");
-                Console.Read();
-                return;
-            }
+            FileDir = SOURCE;
+            DataYear = DATAYEAR;
             FilePrefix = "BegleitfBr_Drg_" + DataYear + "_";
-            try {
-                FileChecker.CheckDirectoy(FilePrefix, FileDir, DataYear);
-                Console.WriteLine("Alle benötigten Dateien sind vorhanden.");
-            } catch (Exception e) {
-                Console.WriteLine(e.Message);
-                Console.WriteLine("Eine Datei zur Erstellung der Browser-Daten fehlt.");
-                Console.Read();
-                return;
-            }
-            if (args.Length > 2) {
-                try {
-                    bool liveMode = bool.Parse(args[2]);
-                    if (liveMode) {
-                        BROWSER_EXPORT_DATA_DIR = BROWSER_EXPORT_DATA_DIR_LIVE;
-                    }
-                    else {
-                        BROWSER_EXPORT_DATA_DIR = BROWSER_EXPORT_DATA_DIR_TEST;
-                    }
-                } catch (Exception ex) {}
-            }
             try {
                 if (Directory.Exists(Path.Combine(BROWSER_EXPORT_DATA_DIR, DataYear + "")))
                     Directory.Delete(Path.Combine(BROWSER_EXPORT_DATA_DIR, DataYear + ""), true);
